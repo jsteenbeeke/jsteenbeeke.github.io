@@ -4,7 +4,11 @@ title: Info for recruiters
 permalink: /recruiters/
 ---
 
-Hello there! If you're reading this then you're either a sentient web spider, or a human being looking for an **experienced software developer**. I might have even sent you here after you messaged [me on LinkedIn](https://www.linkedin.com/in/jeroen-steenbeeke-1b13676/). Well then, that is exactly what I consider myself to be, but before we start, a few words of warning:
+Hello there! If you're reading this then you're either a sentient web spider, or a human being looking for 
+an **experienced software developer**. I might have even sent you here after you messaged
+ [me on LinkedIn](https://www.linkedin.com/in/jeroen-steenbeeke-1b13676/). 
+ 
+Before we continue, a few words of warning:
 
  * I am currently employed, and probably not interested in leaving
  * I work part-time (Monday, Tuesday, Thursday and Friday), this is non-negotiable
@@ -182,6 +186,7 @@ If you do decide to contact me, here's a small list of things you should and sho
 * Describe your application's technology stack
 * Briefly tell me what your company does
 * Give a salary indication up front (a range is fine)
+* Obey [Wheaton's Law](http://www.wheatonslaw.com/)
 
 ## Don't
 

@@ -225,7 +225,7 @@ I refer to these companies as "open doors" (from the expression "to kick at an o
 | Eijsink | 3 |
 | TakeAway / Thuisbezorgd | 3 |
 | OV Software | 3 |
-| Exxelence | 3 |
+| Exxellence | 3 |
 | Thales | 3; and I don't want to work for a defense contractor |
 | Group 2000 | 3; and I don't want to work on surveillance software |
 | Impulse Info Systems | 3 |

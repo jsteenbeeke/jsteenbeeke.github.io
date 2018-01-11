@@ -15,6 +15,8 @@ Still reading? Good, here's a few things you need to keep in mind:
 
  * [What I am looking for](#what-I-am-looking-for)
  * [Do's and don'ts](#dos-and-donts)
+ * [The recruiter blacklist](#recruiter-blacklist)
+ * [The open door list](#the-open-door-list)
  
 # What I am looking for
 
@@ -48,6 +50,10 @@ Without enumerating all the frameworks I have experience with (have a look at ei
  
 In addition, I tend to get very cautious when your company uses Oracle software.
 
+## You develop software in-house
+
+Contracting (Dutch: detachering) does not appeal to me.
+
 ## Your job has a sensible overtime policy
 
 As much as I like programming, I like seeing my family even more. I will refuse to work any form of structural overtime (i.e. so called "death marches" to meet a deadline). Incidental overtime usually isn't a problem, but I will expected to be compensated for it (in extra vacation hours, preferably).
@@ -76,9 +82,13 @@ That's great, but that won't lower my monthly expenses.
 
 ### But we have variable bonuses
 
-Variable means "will be zero when shit hits the fan".
+Variable means "equal to zero when shit hits the fan".
 
 For the sake of comparison with my current salary all your variable bonuses will be assigned a value of &euro; 0 (and for fairness I will also consider my current variable bonuses to be &euro; 0 as well, though that generally doesn't work in your favor as most of my salary is static).
+
+### Okay okay, what number are we talking?
+
+If I were working full time, my monthly salary would be somewhere between 1.5 and 1.75 times the Dutch modal income.
 
 ## The salary you offer me is not maxed out
 
@@ -89,8 +99,8 @@ Not only do I expect an awesome salary, I expect good performance to be rewarded
 I expect, as an absolute minimum, for your company to provide the following:
 
  * A good pension plan, with a sizable contribution of the fee by the employer
- * Paid travel expenses for my daily commute
- * At least 24 paid vacation days, but more is better
+ * Paid travel expenses for my daily commute (or, if your company is **easily** reachable by train: a railway subscription)
+ * At least 24 paid vacation days, preferably more
 
 ## Your company has a sensible approach to agile development
 
@@ -127,13 +137,17 @@ My current commute is roughly 35 minutes, by bicycle. I enjoy cycling to work, a
 Enschede? No problem. Deventer? Did that for seven years, not sure if I want to do that again. Apeldoorn? Already too far.
  Amsterdam? Hell no. Nuremburg or Munich? LOL (you'd be surprised how often people contact me about jobs in southern Germany though).
 
-## Your company is clean
+## Your company's activities do not clash with my ethics
 
 I will not work for companies:
 
  * That are active in the defense industry
- * That build surveillance software
+ * That build surveillance software (and yes, "lawful interception" also counts as surveillance. Just because the law allows it does not mean it is justified)
  * That have anything to do with the tobacco industry
+ 
+ ## Your company is clean
+ 
+ A clean kitchen, clean toilets and clean rooms are a must.
  
  ## Your company uses good hardware
  
@@ -148,7 +162,7 @@ I will not work for companies:
   
  ## Your company isn't afraid to spend money on developer tools
  
- A good IDE, good issue tracking software, a usable hour registration tool (in my experience, there are no good ones). If you
+ A good IDE (such as IntelliJ), good issue tracking software, a usable hour registration tool (in my experience, there are no good ones). If you
  want me to work for you, you need to make my life easy.
  
  ## Your company understands the need for quiet workspaces
@@ -162,8 +176,52 @@ I will not work for companies:
 
 If you do decide to contact me, here's a small list of things you should and shouldn't do:
 
-| Do  | Don't |
-| --- | ----- |
-| Describe your application's technology stack | Hold back details unless I give you a phone call |
-| Tell me what your company does | Send me a contact invite on LinkedIn |
-| Give a salary indication (a range is fine) | Try getting in touch with me through my current employer |
+## Do
+
+* Tell me the name of your company
+* Describe your application's technology stack
+* Briefly tell me what your company does
+* Give a salary indication up front (a range is fine)
+
+## Don't
+
+* Insist I call you on the phone (I really don't have time to speak to every recruiter who stumbles upon my LinkedIn page)
+* Send me contact invites on LinkedIn
+* Try getting in touch with me through my current employer
+
+# The recruiter blacklist
+
+Did I mention I really hate recruiters? If you're working for any of the following companies, do not bother contacting me:
+
+ * JouwJavaVacature (also JouwIctVacature and probably a dozen others)
+ * uChoose
+ * Bonque
+ * StarApple
+ 
+If you're not on the list, then congratulations, maybe you're not a total dick. But it's still unlikely I'll work with you.
+
+# The open door list
+
+I've gotten suggestions to apply at the following companies so often that it's getting tiresome. These are companies
+that are:
+
+ 1. Former employers - I know who to call if I want to work there again
+ 2. Companies where friends work - I'll let my friends do the introductions if I want to work there
+ 3. Companies that are well known in the region - if I wanted to work there I would have gotten in touch with them already
+
+This applies to the following companies:
+
+| Company | Reason |
+| ------- | ------ |
+| Carthago ICT | 1 and 2 |
+| Topicus | 1 and 2 |
+| JDriven | 2 |
+| Nedap | 3; and working in Groenlo would mean having to buy an extra car, not worth it |
+| Eijsink | 3 |
+| TakeAway / Thuisbezorgd | 3 |
+| OV Software | 3 |
+| Exxelence | 3 |
+| Thales | 3; and I don't want to work for a defense contractor |
+| Group 2000 | 3; and I don't want to work on surveillance software |
+
+Finally, for obvious reasons, suggestions that I go work at my current job will also be counter-productive.

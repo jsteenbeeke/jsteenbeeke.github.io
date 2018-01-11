@@ -209,7 +209,7 @@ that are:
  2. Companies where friends work - I'll let my friends do the introductions if I want to work there
  3. Companies that are well known in the region - if I wanted to work there I would have gotten in touch with them already
 
-This applies to the following companies:
+I refer to these companies as "open doors" (from the expression "to kick at an open door"). This applies to the following companies:
 
 | Company | Reason |
 | ------- | ------ |
@@ -223,5 +223,6 @@ This applies to the following companies:
 | Exxelence | 3 |
 | Thales | 3; and I don't want to work for a defense contractor |
 | Group 2000 | 3; and I don't want to work on surveillance software |
+| Impulse Info Systems | 3 |
 
 Finally, for obvious reasons, suggestions that I go work at my current job will also be counter-productive.

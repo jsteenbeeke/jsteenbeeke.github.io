@@ -28,6 +28,7 @@ plugins:
   - jekyll-feed
 
 excerpt_separator: <!--more-->
+google_analytics: UA-35058905-3
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

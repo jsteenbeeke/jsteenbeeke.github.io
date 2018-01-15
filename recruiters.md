@@ -12,8 +12,8 @@ Before we continue, a few words of warning:
 
  * I am currently employed, and probably not interested in leaving
  * I work part-time (Monday, Tuesday, Thursday and Friday), this is non-negotiable
- * I **really** dislike recruiters (especially those working for big agencies, mostly because they're utter shits, if you're one
- of these you urgently need to consider switching careers),
+ * **NO AGENCY RECRUITERS**, though in a few exceptional cases I might agree to work with local ones (i.e. within 10KM of my home). Sorry British recruiters, unless you annex the Netherlands,
+ this also means you.
 
 Still reading? Good, here's a few things you need to keep in mind:
 
@@ -24,8 +24,8 @@ Still reading? Good, here's a few things you need to keep in mind:
  
 # What I am looking for
 
-I'm quite picky when it comes to companies I'm willing to work for, here's a rather elaborate checklist of things to keep
-in mind.
+I'm quite picky when it comes to companies I'm willing to work for, so here's a very elaborate checklist of things that
+should apply to your company if you want me working for it.
 
 ## You are looking for a person who is going to write code
 
@@ -205,14 +205,15 @@ If you do decide to contact me, here's a small list of things you should and sho
 
 # The recruiter blacklist
 
-Did I mention I really hate recruiters? If you're working for any of the following companies, do not bother contacting me:
+Did I mention I really hate recruiters? In addition to my **general ban on agency recruiters**, these people have pissed me
+off enough to earn a special mention:
 
  * JouwJavaVacature (also JouwIctVacature and probably a dozen others)
  * uChoose
  * Bonque
  * StarApple
  
-If you're not on the list, then congratulations, maybe you're not a total dick. But it's still unlikely I'll work with you.
+If you're not on the list, then congratulations, maybe you're not a total dick.
 
 # The open door list
 

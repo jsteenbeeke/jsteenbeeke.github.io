@@ -12,8 +12,10 @@ Before we continue, a few words of warning:
 
  * I am currently employed, and probably not interested in leaving
  * I work part-time (Monday, Tuesday, Thursday and Friday), this is non-negotiable
- * **NO AGENCY RECRUITERS**, though in a few exceptional cases I might agree to work with local ones (i.e. within 10KM of my home). Sorry British recruiters, unless you annex the Netherlands,
- this also means you.
+ * **NO AGENCY RECRUITERS**
+   * In a few exceptional cases I might agree to work with local ones (i.e. within 10KM of
+  my home).
+   * Sorry British recruiters, unless you annex the Netherlands, this also means you.
 
 Still reading? Good, here's a few things you need to keep in mind:
 

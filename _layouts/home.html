@@ -14,20 +14,21 @@ layout: default
     {% if site.posts.size > 0 %}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     {% for post in site.posts %}
-    <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-    </h3>
-    <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        {{ post.date | date: date_format }}
-    </time>
-    <p>
-        {{ post.excerpt }}
+        <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h3>
+        <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+            {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+            {{ post.date | date: date_format }}
+        </time>
+        <p>
+            {{ post.excerpt }}
 
-    <ul>
-        <li><a class="post-link" href="{{ post.url | relative_url }}">Continue reading</a></li>
-    </ul>
-    </p>
+            <ul>
+                <li><a class="post-link" href="{{ post.url | relative_url }}">Continue reading</a></li>
+            </ul>
+        </p>
+    <div class="post-separator"></div>
     {% endfor %}
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>

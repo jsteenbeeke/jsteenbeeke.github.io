@@ -64,6 +64,11 @@ As much as I like programming, I like seeing my family even more. I will refuse 
 
 Mandatory evening knowledge sharing sessions are a no-go for me, and if you're one of those employers who doesn't strictly require attendance but still lets the attendance record affect performance reviews then you're a dick and I don't want to work for you.
 
+## I can work from home every now and then
+
+As a rule, I work from the office, but every now and then a situation arises where it would be easier to
+work from home for an afternoon or a day. If your company forbids this, then I won't work for you.
+
 ## Your contracts aren't filled with shit
 
 I will refuse to sign contracts that try to take away my intellectual property rights outside of the scope of the job. I have several creative hobbies, and broad assignment of intellectual property rights to you causes a whole lot of shit for me.
@@ -76,9 +81,13 @@ My current salary is pretty good, probably well beyond average for the region I 
 
 You should get out more if that's what you think.
 
+### You can't earn that much without some serious negotiation skills
+
+I've negotiated a higher salary than was initially offered exactly once in my career (a 3% difference).
+
 ### Giving you that much would be unfair to our other employees
 
-Maybe you should stop underpaying them, then?
+That probably means you need to reevaluate your salaries; you're probably underpaying them.
 
 ### But our company's awesome!
 

@@ -149,27 +149,27 @@ I will not work for companies:
  * That build surveillance software (and yes, "lawful interception" also counts as surveillance. Just because the law allows it does not mean it is justified)
  * That have anything to do with the tobacco industry
  
- ## Your company is clean
+## Your company is clean
  
  A clean kitchen, clean toilets and clean rooms are a must.
  
- ## Your company uses good hardware
+## Your company uses good hardware
  
  What's more expensive? A good computer/laptop or your developers working at half speed?
  
- ## Your company allows me to use a good OS
+## Your company allows me to use a good OS
  
  I really **really** hate Windows for development purposes. There are two things you can do:
  
   * Easy: Get me a Macbook Pro
   * Harder: Get me a Linux-compatible laptop (i.e. without Nvidia Optimus and hardware that speaks Linux) or workstation
   
- ## Your company isn't afraid to spend money on developer tools
+## Your company isn't afraid to spend money on developer tools
  
  A good IDE (such as IntelliJ), good issue tracking software, a usable hour registration tool (in my experience, there are no good ones). If you
  want me to work for you, you need to make my life easy.
  
- ## Your company understands the need for quiet workspaces
+## Your company understands the need for quiet workspaces
  
  Developers need to concentrate. Putting is in a big room hurts our productivity. Putting the sales people in the same
  room destroys it.

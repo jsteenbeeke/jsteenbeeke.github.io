@@ -205,7 +205,7 @@ If you do decide to contact me, here's a small list of things you should and sho
 * Send me contact invites on LinkedIn
 * Try getting in touch with me through my current employer
 
-# The recruiter blacklist
+# Recruiter blacklist
 
 Did I mention I really hate recruiters? In addition to my **general ban on agency recruiters**, these people have pissed me
 off enough to earn a special mention:

@@ -15,7 +15,7 @@ Before we continue, a few words of warning:
  * **NO AGENCY RECRUITERS**
    * In a few exceptional cases I might agree to work with local ones (i.e. within 10KM of
   my home).
-   * Sorry British recruiters, unless you annex the Netherlands, this also means you.
+   * Sorry British and Spanish recruiters, unless you annex the Netherlands, this also means you.
 
 Still reading? Good, here's a few things you need to keep in mind:
 
@@ -182,7 +182,7 @@ I will not work for companies:
  
 ## Your company understands the need for quiet workspaces
  
- Developers need to concentrate. Putting is in a big room hurts our productivity. Putting the sales people in the same
+ Developers need to concentrate. Putting us in a big room hurts our productivity. Putting the sales people in the same
  room destroys it.
  
  Four or five people in a single room is quite alright, though I'd love to work at a place that gave me a private office.

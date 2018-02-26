@@ -22,7 +22,7 @@ Still reading? Good, here's a few things you need to keep in mind:
  * [What I am looking for](#what-I-am-looking-for)
  * [Do's and don'ts](#dos-and-donts)
  * [The recruiter blacklist](#recruiter-blacklist)
- * [The open door list](#the-open-door-list)
+ * [The usual suspects](#the-usual-suspects)
  
 # What I am looking for
 
@@ -217,29 +217,37 @@ off enough to earn a special mention:
  
 If you're not on the list, then congratulations, maybe you're not a total dick.
 
-# The open door list
+# The usual suspects
 
-I've gotten suggestions to apply at the following companies so often that it's getting tiresome. These are companies
-that are:
+For some reason recruiters keep suggesting I go work at:
 
- 1. Former employers - I know who to call if I want to work there again
+ 1. Former or current employers - I know who to call if I want to work there again
  2. Companies where friends work - I'll let my friends do the introductions if I want to work there
  3. Companies that are well known in the region - if I wanted to work there I would have gotten in touch with them already
+ 4. Companies I've applied in the past, but decided not to work for - there's a reason I rejected their offer
 
-I refer to these companies as "open doors" (from the expression "to kick at an open door"). This applies to the following companies:
+I refer to these companies as "usual suspects", and any suggestions I go work there will be ignored:
 
-| Company | Reason |
-| ------- | ------ |
-| Carthago ICT | 1 and 2 |
-| Topicus | 1 and 2 |
-| JDriven | 2 |
-| Nedap | 3; and working in Groenlo would mean having to buy an extra car, not worth it |
-| Eijsink | 3 |
-| TakeAway / Thuisbezorgd | 3 |
-| OV Software | 3 |
-| Exxellence | 3 |
-| Thales | 3; and I don't want to work for a defense contractor |
-| Group 2000 | 3; and I don't want to work on surveillance software |
-| Impulse Info Systems | 3 |
-
-Finally, for obvious reasons, suggestions that I go work at my current job will also be counter-productive.
+ * Amis
+ * Carthago ICT
+ * Conclusion
+ * Eijsink
+ * Exxellence
+ * Fortes
+ * Group 2000
+ * Impulse Info Systems
+ * Innovalor
+ * JDriven
+ * Nedap
+ * NerdsAndCompany
+ * OV Software
+ * PhoeniX Software
+ * Sigmax
+ * Sqills
+ * TakeAway
+ * Telecats
+ * Thales
+ * Topicus
+ * Trimm
+ * Vasco
+ * Wehkamp

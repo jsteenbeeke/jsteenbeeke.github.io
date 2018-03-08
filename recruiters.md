@@ -12,6 +12,7 @@ Before we continue, a few words of warning:
 
  * I am currently employed, and probably not interested in leaving
  * I work part-time (Monday, Tuesday, Thursday and Friday), this is non-negotiable
+ * I am not willing to relocate
  * **NO AGENCY RECRUITERS**
    * In a few exceptional cases I might agree to work with local ones (i.e. within 10KM of
   my home).
@@ -115,7 +116,7 @@ I expect, as an absolute minimum, for your company to provide the following:
 
  * A good pension plan, with a sizable contribution of the fee by the employer
  * Paid travel expenses for my daily commute (or, if your company is **easily** reachable by train: a railway subscription)
- * At least 24 paid vacation days, preferably more
+ * At least 26 paid vacation days, preferably more
 
 ## Your company has a sensible approach to agile development
 
@@ -151,6 +152,11 @@ My current commute is roughly 35 minutes, by bicycle. I enjoy cycling to work, a
 
 Enschede? No problem. Deventer? Did that for seven years, not sure if I want to do that again. Apeldoorn? Already too far.
  Amsterdam? Hell no. Nuremburg or Munich? LOL (you'd be surprised how often people contact me about jobs in southern Germany though).
+ 
+### What if we help you relocate?
+
+I am not interested in relocating. There are several reasons for this, none of which are your business. All you need to know
+is it's not going to happen.
 
 ## Your company's activities do not clash with my ethics
 
@@ -172,8 +178,8 @@ I will not work for companies:
  
  I really **really** hate Windows for development purposes. There are two things you can do:
  
-  * Easy: Get me a Macbook Pro
-  * Harder: Get me a Linux-compatible laptop (i.e. without Nvidia Optimus and hardware that speaks Linux) or workstation
+  * Easy: Get me a MacBook Pro or a System76 laptop 
+  * Harder: Get me some other Linux-compatible laptop (i.e. without Nvidia Optimus and hardware that speaks Linux) or workstation
   
 ## Your company isn't afraid to spend money on developer tools
  

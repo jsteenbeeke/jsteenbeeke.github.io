@@ -55,7 +55,7 @@ Without enumerating all the frameworks I have experience with (have a look at ei
  * JSP
  * Struts
  
-In addition, I tend to get very cautious when your company uses Oracle software.
+In addition, I tend to get very cautious when your company uses Oracle software (with the exception of Java, of course).
 
 ## You develop software in-house
 

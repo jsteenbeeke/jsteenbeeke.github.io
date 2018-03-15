@@ -11,6 +11,7 @@ an **experienced software developer**. I might have even sent you here after you
 Before we continue, a few words of warning:
 
  * I am currently employed, and probably not interested in leaving
+   * I'm not a freelancer
  * I work part-time (Monday, Tuesday, Thursday and Friday), this is non-negotiable
  * I am not willing to relocate
  * **NO AGENCY RECRUITERS**
@@ -60,6 +61,11 @@ In addition, I tend to get very cautious when your company uses Oracle software 
 ## You develop software in-house
 
 Contracting (Dutch: detachering) does not appeal to me.
+
+## You're looking for an employee, not a freelancer
+
+While there's nothing wrong with freelancers or companies that employ them, I'm not a freelancer, and prefer the certainty
+of a regular job.
 
 ## Your job has a sensible overtime policy
 

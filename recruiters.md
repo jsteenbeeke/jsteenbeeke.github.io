@@ -204,7 +204,7 @@ If you do decide to contact me, here's a small list of things you should and sho
 
 ## Don't
 
-* Insist I call you on the phone (I really don't have time to speak to every recruiter who stumbles upon my LinkedIn page)
+* [Insist I call you on the phone](#fuck-phonecalls)
 * Send me contact invites on LinkedIn
 * Try getting in touch with me through my current employer
 * Assume I'm inflating numbers or making exaggerated claims in this article
@@ -260,7 +260,7 @@ I refer to these companies as "usual suspects", and any suggestions I go work th
 # Miscellaneous
 
 In the above sections a number of short statements were made that either warrant some further elaboration, or are statements I
-want to refer to as a link when communicating with people on LinkedIn. If you've already thoroughly read the rest of this page there is
+can use as canned responses when communicating with people on LinkedIn. If you've already thoroughly read the rest of this page there is
 no need to read the below points, unless you're curious.
 
 ## No agency recruiters
@@ -292,3 +292,13 @@ I'll also accept a range, but only if it's not too broad.
 And yes, you can make an estimate without having interviewed me. My work history can be easily found on LinkedIn, and if
 you can't get a decent picture of what I can do based on the numerous code samples on this site and on Github and Bitbucket,
 then you have no business hiring developers in the first place.
+
+## Fuck phonecalls
+
+I get a lot of visits to my LinkedIn page, and plenty of people seem to be interested in offering me jobs. Yet for some reason
+a lot of people want to talk to me on the phone.
+
+First of all, I can read **much** faster than you can talk, so why on Earth would you want to convey information about a job vocally when
+you probably already have it written down? Just send me the information.
+
+Second, even if I were to speak to every interested party on the phone, I'd have no time left in the day.

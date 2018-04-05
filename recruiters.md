@@ -12,12 +12,11 @@ Before we continue, a few words of warning:
 
  * I am currently employed, and probably not interested in leaving
    * I'm not a freelancer
- * I work part-time (Monday, Tuesday, Thursday and Friday), this is non-negotiable
+ * I work a 32 hour part-time job (Monday, Tuesday, Thursday and Friday), this is non-negotiable
  * I am not willing to relocate
- * **NO AGENCY RECRUITERS**
-   * In a few exceptional cases I might agree to work with local ones (i.e. within 10KM of
-  my home).
-   * Sorry British and Spanish recruiters, unless you annex the Netherlands, this also means you.
+ * **[NO AGENCY RECRUITERS](#no-agency-recruiters)**
+   * No [foreign recruiters](#foreign-recruiters) either
+ * It's a seller's market
 
 Still reading? Good, here's a few things you need to keep in mind:
 
@@ -29,7 +28,7 @@ Still reading? Good, here's a few things you need to keep in mind:
 # What I am looking for
 
 I'm quite picky when it comes to companies I'm willing to work for, so here's a very elaborate checklist of things that
-should apply to your company if you want me working for it.
+should apply to your company if you want me working for it. **This is the bare minimum, not a list of nice-to-haves**
 
 ## You are looking for a person who is going to write code
 
@@ -56,7 +55,8 @@ Without enumerating all the frameworks I have experience with (have a look at ei
  * JSP
  * Struts
  
-In addition, I tend to get very cautious when your company uses Oracle software (with the exception of Java, of course).
+In addition, I'm not interested in working with colossal proprietary application development frameworks (a Java EE server is probably
+the most heavyweight piece of software I'll find acceptable).
 
 ## You develop software in-house
 
@@ -69,9 +69,13 @@ of a regular job.
 
 ## Your job has a sensible overtime policy
 
-As much as I like programming, I like seeing my family even more. I will refuse to work any form of structural overtime (i.e. so called "death marches" to meet a deadline). Incidental overtime usually isn't a problem, but I will expected to be compensated for it (in extra vacation hours, preferably).
+As much as I like programming, I like seeing my family even more. I will refuse to work any form of structural overtime
+ (i.e. so called "death marches" to meet a deadline). Incidental overtime usually isn't a problem, but I will expected 
+ to be compensated for it (in extra vacation hours, preferably).
 
-Mandatory evening knowledge sharing sessions are a no-go for me, and if you're one of those employers who doesn't strictly require attendance but still lets the attendance record affect performance reviews then you're a dick and I don't want to work for you.
+Mandatory evening knowledge sharing sessions are a no-go for me, and if you're one of those employers who doesn't strictly
+ require attendance but still lets the attendance record affect performance reviews then you're a dick and I don't want
+  to work for you.
 
 ## I can work from home every now and then
 
@@ -80,37 +84,23 @@ work from home for an afternoon or a day. If your company forbids this, then I w
 
 ## Your contracts aren't filled with shit
 
-I will refuse to sign contracts that try to take away my intellectual property rights outside of the scope of the job. I have several creative hobbies, and broad assignment of intellectual property rights to you causes a whole lot of shit for me.
+I will refuse to sign contracts that try to take away my intellectual property rights outside of the scope of the job. I
+ have several creative hobbies, and broad assignment of intellectual property rights to you causes a whole lot of shit for me.
 
 ## Your salaries are awesome
 
-My current salary is pretty good, probably well beyond average for the region I live in, though not at all spectacular for the more populous regions of this country. If you're thinking of offering me a job, your salary should **beat** my current salary by a considerable margin.
+My current salary is pretty good, probably well beyond average for the region I live in, though not at all spectacular 
+for the more populous regions of this country. If you're thinking of offering me a job, your salary should **beat** my
+ current salary by a considerable margin.
+ 
+I have no patience for companies that think they can get away with a shit salary in a seller's market. If meeting my salary
+would create disparity with your current employees then I would seriously consider giving them a raise before they figure
+out they're being shafted.
 
-### But you're already earning more than most people with your experience!
+### So, what number are we talking about?
 
-You should get out more if that's what you think.
-
-### You can't earn that much without some serious negotiation skills
-
-I've negotiated a higher salary than was initially offered exactly once in my career (a 3% difference).
-
-### Giving you that much would be unfair to our other employees
-
-That probably means you need to reevaluate your salaries; you're probably underpaying them.
-
-### But our company's awesome!
-
-That's great, but that won't lower my monthly expenses.
-
-### But we have variable bonuses
-
-Variable means "equal to zero when shit hits the fan".
-
-For the sake of comparison with my current salary all your variable bonuses will be assigned a value of &euro; 0 (and for fairness I will also consider my current variable bonuses to be &euro; 0 as well, though that generally doesn't work in your favor as most of my salary is static).
-
-### Okay okay, what number are we talking?
-
-If I were working full time, my monthly salary would be somewhere between 1.5 and 1.75 times the Dutch modal income.
+Let's just say that if your offer does not put me in the highest tax bracket (assuming full-time salary), you're not 
+trying hard enough.
 
 ## The salary you offer me is not maxed out
 
@@ -156,8 +146,11 @@ If I have to explain what OWASP is on my first day you probably have bigger prob
 My current commute is roughly 35 minutes, by bicycle. I enjoy cycling to work, and I would like to continue to do that in my
  next job.
 
-Enschede? No problem. Deventer? Did that for seven years, not sure if I want to do that again. Apeldoorn? Already too far.
- Amsterdam? Hell no. Nuremburg or Munich? LOL (you'd be surprised how often people contact me about jobs in southern Germany though).
+ * Enschede or Almelo - No problem
+ * Deventer - Did that for seven years, not sure if I want to do that again.
+ * Apeldoorn - Already too far
+ * Amsterdam - You clearly don't understand traffic conditions in this country if you think this is a good idea
+ * Nuremberg, Munich, Dublin, Toronto, etc - Hell no.
  
 ### What if we help you relocate?
 
@@ -198,17 +191,15 @@ I will not work for companies:
  room destroys it.
  
  Four or five people in a single room is quite alright, though I'd love to work at a place that gave me a private office.
-  
+
 # Do's and don'ts
 
 If you do decide to contact me, here's a small list of things you should and shouldn't do:
 
 ## Do
 
-* Tell me the name of your company
 * Describe your application's technology stack
-* Briefly tell me what your company does
-* Give a salary indication up front (a range is fine)
+* [Give a salary indication up front](#give-me-a-salary-indication)
 * Obey [Wheaton's Law](http://www.wheatonslaw.com/)
 
 ## Don't
@@ -216,6 +207,7 @@ If you do decide to contact me, here's a small list of things you should and sho
 * Insist I call you on the phone (I really don't have time to speak to every recruiter who stumbles upon my LinkedIn page)
 * Send me contact invites on LinkedIn
 * Try getting in touch with me through my current employer
+* Assume I'm inflating numbers or making exaggerated claims in this article
 
 # Recruiter blacklist
 
@@ -264,3 +256,39 @@ I refer to these companies as "usual suspects", and any suggestions I go work th
  * Undagrid
  * Vasco
  * Wehkamp
+
+# Miscellaneous
+
+In the above sections a number of short statements were made that either warrant some further elaboration, or are statements I
+want to refer to as a link when communicating with people on LinkedIn. If you've already thoroughly read the rest of this page there is
+no need to read the below points, unless you're curious.
+
+## No agency recruiters
+
+I really do not like recruitment companies. While the vast majority of them will not have made it to my [recruiter blacklist](#recruiter-blacklist),
+I simply loathe their business model, and only in a few rare situations have they managed to suggest companies I didn't
+already know or could find with a few minutes of Googling  with common
+terms such as "java developer `insert_townname_close_to_home`" (see also the [usual suspects](#the-usual-suspects) list).
+
+As such, I will not do business with recruiters, unless we already have a prior working relationship (i.e. you have my phone
+number and I actually answer your calls) and your name is not on the blacklist.
+
+### Foreign recruiters
+
+Every now and then I also get contacted by recruiters from other countries, most commonly from England, though I've also
+had messages from Spain, Germany, the United States and Canada.
+
+The restriction on agency recruiters also applies to you, and extends to in-house recruiters unless you're looking for
+employees in an office that [I can reach by bike](#your-company-is-located-in-central-twente) (I know of one local company whose HR department is in Belgium).
+
+## Give me a salary indication
+
+I require a salary indication prior to any interviews taking place. This is to avoid spending hours on interviews only
+to find out that a company can't afford me.
+ 
+I expect the salary indication to be based on fulltime employment, and expressed as either a yearly or monthly salary. 
+I'll also accept a range, but only if it's not too broad.
+
+And yes, you can make an estimate without having interviewed me. My work history can be easily found on LinkedIn, and if
+you can't get a decent picture of what I can do based on the numerous code samples on this site and on Github and Bitbucket,
+then you have no business hiring developers in the first place.

@@ -1,0 +1,31 @@
+@startuml
+
+start
+
+if (Recruiter approaches me through LinkedIn) then (Contact Invite)
+    :Press Ignore;
+    :Press 'I don't know this person';
+    stop
+else (InMail)
+    if (Works for recruitment agency?) then (No)
+      :In house recruiter;
+      if (Did recruiter actually read profile?) then (No)
+        :Terse response;
+        :Delete conversation;
+        stop;
+      else (Yes)
+        while (Interesting?) is (Yes)
+        :Polite response;
+        :Await reply;
+        endwhile (No)
+        :Polite refusal;
+        :Archive conversation;
+        stop
+      endif
+    else (Yes)
+      :Delete conversation;
+      stop
+    endif
+endif
+
+@enduml

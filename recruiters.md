@@ -89,9 +89,7 @@ I will refuse to sign contracts that try to take away my intellectual property r
 
 ## Your salaries are awesome
 
-My current salary is pretty good, probably well beyond average for the region I live in, though not at all spectacular 
-for the more populous regions of this country. If you're thinking of offering me a job, your salary should **beat** my
- current salary by a considerable margin.
+If you're thinking of offering me a job, your salary should **beat** my current salary by a considerable margin.
  
 I have no patience for companies that think they can get away with a shit salary in a seller's market. If meeting my salary
 would create disparity with your current employees then I would seriously consider giving them a raise before they figure
@@ -99,12 +97,17 @@ out they're being shafted.
 
 ### So, what number are we talking about?
 
-Let's just say that if your offer does not put me in the highest tax bracket (assuming full-time salary), you're not 
-trying hard enough.
+Double the modal income.
+
+### No developer at our company earns that much!
+
+Then please tell your developers that my current employer is hiring and pays more, and let them mention my name when
+they apply here.
 
 ## The salary you offer me is not maxed out
 
-Not only do I expect an awesome salary, I expect good performance to be rewarded by an increase in salary.
+Not only do I expect an awesome salary, I expect good performance to be rewarded by an increase in salary. I'm nowhere
+near the max salary at my current job.
 
 ## Your company has good secondary benefits
 
@@ -207,6 +210,7 @@ If you do decide to contact me, here's a small list of things you should and sho
 * [Insist I call you on the phone](#fuck-phonecalls)
 * Send me contact invites on LinkedIn
 * Try getting in touch with me through my current employer
+* Contact me [by e-mail](#no-email)
 * Assume I'm inflating numbers or making exaggerated claims in this article
 
 # Recruiter blacklist
@@ -233,6 +237,7 @@ For some reason recruiters keep suggesting I go work at:
 I refer to these companies as "usual suspects", and any suggestions I go work there will be ignored:
 
  * Amis
+ * Belastingdienst
  * Carthago ICT
  * Conclusion
  * Eijsink
@@ -302,3 +307,16 @@ First of all, I can read **much** faster than you can talk, so why on Earth woul
 you probably already have it written down? Just send me the information.
 
 Second, even if I were to speak to every interested party on the phone, I'd have no time left in the day.
+
+## No email
+
+While my e-mail address isn't exactly a well kept secret, then unless we're already on speaking terms or I personally 
+initiated the contact, you **will not** e-mail me.
+
+Offenders can expect [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)-related e-mails as response.
+
+## Why didn't you respond to my inquiry?
+
+The following activity diagram explains everything:
+
+![Recruiter flowchart](recruiters.png)

@@ -234,7 +234,8 @@ For some reason recruiters keep suggesting I go work at:
  3. Companies that are well known in the region - if I wanted to work there I would have gotten in touch with them already
  4. Companies I've applied in the past, but decided not to work for - there's a reason I rejected their offer
 
-I refer to these companies as "usual suspects", and any suggestions I go work there will be ignored:
+I refer to these companies as "usual suspects", and contacting me about them is pointless **unless you work
+ there**. I would like to stress that this is not a blacklist.
 
  * Amis
  * Belastingdienst
@@ -314,6 +315,31 @@ While my e-mail address isn't exactly a well kept secret, then unless we're alre
 initiated the contact, you **will not** e-mail me.
 
 Offenders can expect [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)-related e-mails as response.
+
+## About beverages
+
+I don't drink coffee, tea, hot chocolate or basically any beverage that is hot.
+
+### How about a glass of water?
+
+I have a functioning tap right here.
+
+### Soda then?
+
+I have a good supply right here.
+
+### We also have beer?
+
+I prefer Scotch Single Malt.
+
+### We have that too!
+
+I don't drink alcohol during weekdays.
+ 
+### Dude, forget about the drink, we're just trying to be friendly because we want to talk to you
+
+Yes, I understood that five headings ago. Are you getting the hint that I don't *want* to talk to you yet
+ or do I need to get blunt?
 
 ## Why didn't you respond to my inquiry?
 

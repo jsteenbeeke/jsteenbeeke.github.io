@@ -296,6 +296,10 @@ I charge &euro; 5000 per candidate, payable in advance.
 
 Oh, you thought I was going to do your job for you _for free_. That's adorable!
 
+##### What if I can't place the candidate you provided anywhere?
+
+That's your problem, not mine. Maybe you're not a very good recruiter?
+
 ## Give me a salary indication
 
 I require a salary indication prior to any interviews taking place. This is to avoid spending hours on interviews only
@@ -324,6 +328,14 @@ While my e-mail address isn't exactly a well kept secret, then unless we're alre
 initiated the contact, you **will not** e-mail me.
 
 Offenders can expect [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)-related e-mails as response.
+
+## &gt;insert insult here&lt;
+
+Every now and then a recruiter feels the need to vent their frustration on me. I understand, it's hard to do a meaningless
+job every day and stay motivated, and I'd probably feel the same if I had a worthless college degree and was forced to
+work in a boiler room.
+
+I'd suggest working at McDonalds instead (honest hard work with tangible results), but I doubt you'd pass the hiring procedure.
 
 ## About beverages
 

@@ -279,13 +279,22 @@ terms such as "java developer `insert_townname_close_to_home`" (see also the [us
 As such, I will not do business with recruiters, unless we already have a prior working relationship (i.e. you have my phone
 number and I actually answer your calls) and your name is not on the blacklist.
 
-### Foreign recruiters
+##### Foreign recruiters
 
 Every now and then I also get contacted by recruiters from other countries, most commonly from England, though I've also
 had messages from Spain, Germany, the United States and Canada.
 
 The restriction on agency recruiters also applies to you, and extends to in-house recruiters unless you're looking for
 employees in an office that [I can reach by bike](#your-company-is-located-in-central-twente) (I know of one local company whose HR department is in Belgium).
+
+## Referrals
+
+I will happily refer people in search of new jobs from my network. Assuming I am aware of any such persons (which is rare),
+I charge &euro; 5000 per candidate, payable in advance.
+
+##### Payable in advance, are you nuts?
+
+Oh, you thought I was going to do your job for you _for free_. That's adorable!
 
 ## Give me a salary indication
 
@@ -320,23 +329,23 @@ Offenders can expect [GDPR](https://en.wikipedia.org/wiki/General_Data_Protectio
 
 I don't drink coffee, tea, hot chocolate or basically any beverage that is hot.
 
-### How about a glass of water?
+##### How about a glass of water?
 
 I have a functioning tap right here.
 
-### Soda then?
+##### Soda then?
 
 I have a good supply right here.
 
-### We also have beer?
+##### We also have beer?
 
-I prefer Scotch Single Malt.
+I prefer Single Malt Scotch.
 
-### We have that too!
+##### We have that too!
 
 I don't drink alcohol during weekdays.
  
-### Dude, forget about the drink, we're just trying to be friendly because we want to talk to you
+##### Dude, forget about the drink, we're just trying to be friendly because we want to talk to you
 
 Yes, I understood that five headings ago. Are you getting the hint that I don't *want* to talk to you yet
  or do I need to get blunt?
@@ -354,9 +363,10 @@ In other words, if you're trying to get me to work somewhere, you are trying to 
 And since the `-er` suffix turns a verb into a "[person or thing that does an action indicated by the root verb](https://en.wiktionary.org/wiki/-er#Suffix)", 
 then, if you are _recruiting_, you are a **recruiter**.
 
-### You can't just jump to conclusions like that!
+##### You can't just jump to conclusions like that!
 
-I can, it's called propositional logic. Two consecutive applications of [modus ponens](https://en.wikipedia.org/wiki/Modus_ponens), to be exact.
+I can, it's called logic. Two consecutive applications of [modus ponens](https://en.wikipedia.org/wiki/Modus_ponens), to be exact. If this is
+too complicated for you, you have no business hiring developers.
 
 ## Why didn't you respond to my inquiry?
 

@@ -10,7 +10,7 @@ an **experienced software developer**. I might have even sent you here after you
  
 Before we continue, a few words of warning:
 
- * I am currently employed, and probably not interested in leaving
+ * I am currently employed, and not interested in leaving
    * I'm not a freelancer
  * I work a 32 hour part-time job (Monday, Tuesday, Thursday and Friday), this is non-negotiable
  * I am not willing to relocate
@@ -28,7 +28,11 @@ Still reading? Good, here's a few things you need to keep in mind:
 # What I am looking for
 
 I'm quite picky when it comes to companies I'm willing to work for, so here's a very elaborate checklist of things that
-should apply to your company if you want me working for it. **This is the bare minimum, not a list of nice-to-haves**
+should apply to your company if you want me working for it.
+
+## This is the bare minimum
+
+A lot of people interpret the below list as my description of an ideal job. **It's not, it's what I consider the bare minimum to even consider working for you.** I'm not interested in companies that can meet _most_ of the requirements. I want a company that exceeds all of them.
 
 ## You are looking for a person who is going to write code
 
@@ -38,13 +42,7 @@ And no, I am not available (nor qualified) for a position as salesman or German 
 
 ## The languages you work with appeal to me
 
-The programming language I have the most experience with is **Java**, and I enjoy working with it, assuming we're talking about Java 8 or higher. I do not enjoy working on projects that are stuck on earlier versions (which, unless you're paying Oracle a hefty sum, are also unsupported).
-
-I have experience working with Android, but I find the lack of Java 8 features (even with Retrolambda, StreamSupport and ThreeTen) to be too limiting for my enjoyment, so unless you're using **Kotlin**, I'll probably not be interested. 
-
-**Swift** is another language I'd love to learn, as is **Scala**.
-
-Working with **JavaScript** isn't a problem either (though I would prefer it not to be the primary language I work in), but a language such as **TypeScript** would be even better.
+The programming language I have the most experience with is **Java**, and I enjoy working with it, assuming we're talking about Java 8 or higher (though you should be migrating to 11 right about now). I'll also consider **Kotlin**, **JavaScript** or **TypeScript**.
 
 ## The frameworks you work with appeal to me
 
@@ -55,8 +53,7 @@ Without enumerating all the frameworks I have experience with (have a look at ei
  * JSP
  * Struts
  
-In addition, I'm not interested in working with colossal proprietary application development frameworks (a Java EE server is probably
-the most heavyweight piece of software I'll find acceptable).
+In addition, I'm not interested in working with colossal proprietary application development frameworks (a Java EE server is probably the most heavyweight piece of software I'll find acceptable).
 
 ## You develop software in-house
 
@@ -64,18 +61,21 @@ Contracting (Dutch: detachering) does not appeal to me.
 
 ## You're looking for an employee, not a freelancer
 
-While there's nothing wrong with freelancers or companies that employ them, I'm not a freelancer, and prefer the certainty
-of a regular job.
+While there's nothing wrong with freelancers or companies that employ them, I'm not a freelancer, and prefer the certainty of a regular job.
 
-## Your job has a sensible overtime policy
+## Your job very rarely requires working overtime
 
-As much as I like programming, I like seeing my family even more. I will refuse to work any form of structural overtime
- (i.e. so called "death marches" to meet a deadline). Incidental overtime usually isn't a problem, but I will expected 
- to be compensated for it (in extra vacation hours, preferably).
+As much as I like programming, I like seeing my family even more. My current job almost never requires me to work overtime (fewer than once a year).
 
-Mandatory evening knowledge sharing sessions are a no-go for me, and if you're one of those employers who doesn't strictly
- require attendance but still lets the attendance record affect performance reviews then you're a dick and I don't want
-  to work for you.
+Mandatory evening knowledge sharing sessions are a no-go for me, and if you're one of those employers who doesn't strictly require attendance but still lets the attendance record affect performance reviews then you're a dick and I don't want to work for you.
+
+## Developers are never on call
+
+If your system is so fragile that you need developers to be on call then I'm not touching it.
+
+### But we pay extra for standby duty!
+
+Money is worth less to me than time. And I can't buy back the sleep I lose when your misconfigured notification system calls me in the middle of the night.
 
 ## I can work from home every now and then
 
@@ -84,16 +84,13 @@ work from home for an afternoon or a day. If your company forbids this, then I w
 
 ## Your contracts aren't filled with shit
 
-I will refuse to sign contracts that try to take away my intellectual property rights outside of the scope of the job. I
- have several creative hobbies, and broad assignment of intellectual property rights to you causes a whole lot of shit for me.
+I will refuse to sign contracts that try to take away my intellectual property rights outside of the scope of the job. I have several creative hobbies, and broad assignment of intellectual property rights to you causes a whole lot of shit for me.
 
 ## Your salaries are awesome
 
 If you're thinking of offering me a job, your salary should **beat** my current salary by a considerable margin.
  
-I have no patience for companies that think they can get away with a shit salary in a seller's market. If meeting my salary
-would create disparity with your current employees then I would seriously consider giving them a raise before they figure
-out they're being shafted.
+I have no patience for companies that think they can get away with a shit salary in a seller's market. If meeting my salary would create disparity with your current employees then I would seriously consider giving them a raise before they figure out they're being shafted.
 
 ### So, what number are we talking about?
 
@@ -101,13 +98,11 @@ Double the modal income.
 
 ### No developer at our company earns that much!
 
-Then please tell your developers that my current employer is hiring and pays more, and let them mention my name when
-they apply here.
+Then please tell your developers that my current employer is hiring and pays more, and let them mention my name when they apply here.
 
 ## The salary you offer me is not maxed out
 
-Not only do I expect an awesome salary, I expect good performance to be rewarded by an increase in salary. I'm nowhere
-near the max salary at my current job.
+Not only do I expect an awesome salary, I expect good performance to be rewarded by an increase in salary. I'm nowhere near the max salary at my current job.
 
 ## Your company has good secondary benefits
 
@@ -115,16 +110,17 @@ I expect, as an absolute minimum, for your company to provide the following:
 
  * A good pension plan, with a sizable contribution of the fee by the employer
  * Paid travel expenses for my daily commute (or, if your company is **easily** reachable by train: a railway subscription)
- * At least 26 paid vacation days, preferably more
+ * At least 27 paid vacation days, preferably more
+ * Free diet soda
+ * A liberal policy to compensation of employee expenses
 
 ## Your company has a sensible approach to agile development
 
-Agile software development does not mean "spend half the time you could have been programming in meetings to redefine our
- `definition of done`". Yes, I've really been through this, for almost a year, on a two-weekly basis. It's exhausting, 
- mind-numbing, and for some reason people were surprised our velocity kept dropping.
- 
-Oh, and if your answer to this is "we don't buy into this agile nonsense, waterfall forever!!", we're probably not going
- to get along.
+Agile software development is a good thing, and I believe the [agile manifesto](https://agilemanifesto.org) got a lot of things right. 
+
+Unfortunately, a lot of companies conflate "agile" with "SCRUM", of which I am skeptical. [SCRUM](https://en.wikipedia.org/wiki/Scrum_(software_development)) is often applied in such a way as to go counter to the tenet of "Individuals and interactions over processes and tools". I've been in one particular team where every retrospective would devolve into a two hour discussion about process details that had no measurable effect on our effectiveness. That discussion got old ten minutes after it started, and we kept coming back to that discussion every two weeks for almost 10 months (after which I quit the job, the team imploded shortly after that). And if your first reflex to this story is to start with "but you weren't _really_ doing SCRUM if that's what happened" then you can take your [No true Scotsman](https://en.wikipedia.org/wiki/No_true_Scotsman) fallacy and shove it up your ass.
+
+Agile development? Sure. Lots of overhead? Fuck no.
 
 ## Your company has a sensible approach to security policies
 
@@ -144,21 +140,26 @@ I also expect you to have dedicated software testers on staff. I've worked with 
 If I have to explain what OWASP is on my first day you probably have bigger problems than not being able to find developers,
  and I will quit on the spot.
 
-## Your company is located in central Twente
+## Your company has a comfortable commute
 
-My current commute is roughly 35 minutes, by bicycle. I enjoy cycling to work, and I would like to continue to do that in my
- next job.
+My current commute is roughly 1 hour, half of which is by train. I live in central Twente, and I use my commute to write fantasy novels. My next job should both enable me to keep doing this, but at the same time
+be close enough that I actually get to see my family. In practice this means that unless you're located close to the train station in either Deventer or Zwolle then I'm probably not interested.
 
- * Enschede or Almelo - No problem
- * Deventer - Did that for seven years, not sure if I want to do that again.
- * Apeldoorn - Already too far
- * Amsterdam - You clearly don't understand traffic conditions in this country if you think this is a good idea
- * Nuremberg, Munich, Dublin, Toronto, etc - Hell no.
+### We have a job in Amsterdam
+
+That's great! Go bother somebody else!
+
+### We have a job in Bavaria
+
+Which is seven hours from where I live, so fuck no.
+
+### We have a job in Vancouver
+
+Which is on the wrong side of the Atlantic for me.
  
 ### What if we help you relocate?
 
-I am not interested in relocating. There are several reasons for this, none of which are your business. All you need to know
-is it's not going to happen.
+I am not interested in relocating. There are several reasons for this, none of which are your business. All you need to know is it's not going to happen.
 
 ## Your company's activities do not clash with my ethics
 
@@ -180,20 +181,29 @@ I will not work for companies:
  
  I really **really** hate Windows for development purposes. There are two things you can do:
  
-  * Easy: Get me a MacBook Pro or a System76 laptop 
+  * Easy: Get me a System76 laptop 
   * Harder: Get me some other Linux-compatible laptop (i.e. without Nvidia Optimus and hardware that speaks Linux) or workstation
+  * Easy, but I'd rather not: Get me a Macbook Pro
   
 ## Your company isn't afraid to spend money on developer tools
  
- A good IDE (such as IntelliJ), good issue tracking software, a usable hour registration tool (in my experience, there are no good ones). If you
- want me to work for you, you need to make my life easy.
+A good IDE (such as IntelliJ) and good issue tracking software (such as JIRA). If you want me to work for you, you need to make my life easy.
+
+## Your company works on products, not projects
+
+My experience with project-based organizations is that they only do the bare minimum of creating good software. Often there is no room for proper automated testing, and no room for experimentation, and it's a way of working I am not comfortable with at all.
+
+Product-based development offers an entirely different dynamic, and also reduces much of the need for detailed justification of hours spent. 
  
 ## Your company understands the need for quiet workspaces
  
- Developers need to concentrate. Putting us in a big room hurts our productivity. Putting the sales people in the same
- room destroys it.
+Developers need to concentrate. Putting us in a big room hurts our productivity. Putting the sales people in the same room destroys it.
  
- Four or five people in a single room is quite alright, though I'd love to work at a place that gave me a private office.
+Four or five people in a single room is quite alright, though I'd love to work at a place that gave me a private office.
+
+### What if we give you a headphone with active noise-cancelling
+
+I have on of those, but I don't like wearing them all day.
 
 # Do's and don'ts
 

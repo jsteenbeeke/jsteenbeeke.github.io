@@ -113,6 +113,24 @@ I expect, as an absolute minimum, for your company to provide the following:
  * At least 27 paid vacation days, preferably more
  * Free diet soda
  * A liberal policy to compensation of employee expenses
+ 
+### We have a soccer table / bean bag chairs!
+
+Your point being?
+
+#### That's a secondary benefit, right?
+
+No, that's furniture.
+
+#### But...
+
+Look, if you need trivial stuff like that to make your job opening look interesting
+then, sorry to say this, your job **isn't** interesting.
+
+### We have friday afternoon "borrels"!
+
+So do 99% of all companies I've seen recently. Generally speaking they pale in comparison
+ to the monthly "borrel" at my current job.
 
 ## Your company has a sensible approach to agile development
 

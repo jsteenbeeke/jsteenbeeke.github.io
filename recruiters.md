@@ -145,9 +145,21 @@ If I have to explain what OWASP is on my first day you probably have bigger prob
 My current commute is roughly 1 hour, half of which is by train. I live in central Twente, and I use my commute to write fantasy novels. My next job should both enable me to keep doing this, but at the same time
 be close enough that I actually get to see my family. In practice this means that unless you're located close to the train station in either Deventer or Zwolle then I'm probably not interested.
 
-### We have a job in Amsterdam
+### I have a job in central Twente, actually
 
-That's great! Go bother somebody else!
+Too close, that way can't do anything useful during my commute.
+
+#### Why is that a problem? 
+
+Because I'm fucking telling you it's a problem.
+
+### How about Arnhem? That's in the east, right?
+
+It's also a bit farther west and south than Twente. Commute is 1.5 to 2 hours.
+
+### We have a job in Amsterdam, Rotterdam, The Hague, Utrecht or Eindhoven
+
+That's great! Go bother somebody who actually lives near there.
 
 ### We have a job in Bavaria
 
@@ -156,6 +168,14 @@ Which is seven hours from where I live, so fuck no.
 ### We have a job in Vancouver
 
 Which is on the wrong side of the Atlantic for me.
+
+### We have a job on Mars
+
+Are you insa—hang on, really?
+
+#### Yeah, we want you for our manned mission
+
+I'm going to say no to taking part in such a mission, but please do get in touch to tell me about it.
  
 ### What if we help you relocate?
 

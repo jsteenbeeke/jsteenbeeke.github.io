@@ -16,14 +16,14 @@ Before we continue, a few words of warning:
    * I'm not a freelancer
  * I work a 32 hour part-time job (Monday, Tuesday, Thursday and Friday), this is non-negotiable
  * I am not willing to relocate
- * **[NO AGENCY RECRUITERS](#no-agency-recruiters)**
-   * No [foreign recruiters](#foreign-recruiters) either
+ * **[NO AGENCY RECRUITERS](/recruiters/no-agency-recruiters)**
+   * No [foreign recruiters](/recruiters/no-agency-recruiters#foreign-recruiters) either
  * It's a seller's market
 
 Still reading? Good, here's a few things you need to keep in mind:
 
- * [What I am looking for](#what-I-am-looking-for)
- * [Do's and don'ts](#dos-and-donts)
+ * [What I am looking for](#what-i-am-looking-for)
+ * [Do's and don'ts](/recruiters/dos-donts)
  * [The recruiter blacklist](#recruiter-blacklist)
  * [The usual suspects](#the-usual-suspects)
  
@@ -293,24 +293,6 @@ Four or five people in a single room is quite alright, though I'd love to work a
 
 I have on of those, but I don't like wearing them all day.
 
-# Do's and don'ts
-
-If you do decide to contact me, here's a small list of things you should and shouldn't do:
-
-## Do
-
-* Describe your application's technology stack
-* [Give a salary indication up front](#give-me-a-salary-indication)
-* Obey [Wheaton's Law](http://www.wheatonslaw.com/)
-
-## Don't
-
-* [Insist I call you on the phone](#fuck-phonecalls)
-* Send me contact invites on LinkedIn
-* Try getting in touch with me through my current employer
-* Contact me [by e-mail](#no-email)
-* Assume I'm inflating numbers or making exaggerated claims in this article
-
 # Recruiter blacklist
 
 Did I mention I really hate recruiters? In addition to my **general ban on agency recruiters**, these people have pissed me
@@ -350,6 +332,7 @@ I refer to these companies as "usual suspects", and contacting me about them is 
  * NerdsAndCompany
  * OV Software
  * PhoeniX Software
+ * Rockstars IT
  * Sigmax
  * Sqills
  * TakeAway
@@ -360,6 +343,7 @@ I refer to these companies as "usual suspects", and contacting me about them is 
  * Undagrid
  * Vasco
  * Wehkamp
+ * Xebia
 
 # Miscellaneous
 
@@ -367,125 +351,12 @@ In the above sections a number of short statements were made that either warrant
 can use as canned responses when communicating with people on LinkedIn. If you've already thoroughly read the rest of this page there is
 no need to read the below points, unless you're curious.
 
-## No agency recruiters
-
-I really do not like recruitment companies. While the vast majority of them will not have made it to my [recruiter blacklist](#recruiter-blacklist),
-I simply loathe their business model, and only in a few rare situations have they managed to suggest companies I didn't
-already know or could find with a few minutes of Googling  with common
-terms such as "java developer `insert_townname_close_to_home`" (see also the [usual suspects](#the-usual-suspects) list).
-
-As such, I will not do business with recruiters, unless we already have a prior working relationship (i.e. you have my phone
-number and I actually answer your calls) and your name is not on the blacklist.
-
-##### Foreign recruiters
-
-Every now and then I also get contacted by recruiters from other countries, most commonly from England, though I've also
-had messages from Spain, Germany, the United States and Canada.
-
-The restriction on agency recruiters also applies to you, and extends to in-house recruiters unless you're looking for
-employees in an office that [matches my criteria for a comfortable commute](#your-company-has-a-comfortable-commute) (I know of one local company whose HR department is in Belgium).
-
-## Referrals
-
-I will happily refer people in search of new jobs from my network. Assuming I am aware of any such persons (which is rare),
-I charge &euro; 5000 per candidate, payable in advance.
-
-##### Payable in advance, are you nuts?
-
-Oh, you thought I was going to do your job for you _for free_. That's adorable!
-
-##### What if I can't place the candidate you provided anywhere?
-
-That's your problem, not mine. Maybe you're not a very good recruiter?
-
-## Give me a salary indication
-
-I require a salary indication prior to any interviews taking place. This is to avoid spending hours on interviews only
-to find out that a company can't afford me.
- 
-I expect the salary indication to be based on fulltime employment, and expressed as either a yearly or monthly salary. 
-I'll also accept a range, but only if it's not too broad.
-
-And yes, you can make an estimate without having interviewed me. My work history can be easily found on LinkedIn, and if
-you can't get a decent picture of what I can do based on the numerous code samples on this site and on Github and Bitbucket,
-then you have no business hiring developers in the first place.
-
-## Fuck phonecalls
-
-I get a lot of visits to my LinkedIn page, and plenty of people seem to be interested in offering me jobs. Yet for some reason
-a lot of people want to talk to me on the phone.
-
-First of all, I can read **much** faster than you can talk, so why on Earth would you want to convey information about a job vocally when
-you probably already have it written down? Just send me the information.
-
-Second, even if I were to speak to every interested party on the phone, I'd have no time left in the day.
-
-## No email
-
-While my e-mail address isn't exactly a well kept secret, then unless we're already on speaking terms or I personally 
-initiated the contact, you **will not** e-mail me.
-
-Offenders can expect [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)-related e-mails as response.
-
-## &gt;insert insult here&lt;
-
-Every now and then a recruiter feels the need to vent their frustration on me. I understand, it's hard to do a meaningless
-job every day and stay motivated, and I'd probably feel the same if I had a worthless college degree and was forced to
-work in a boiler room.
-
-I'd suggest working at McDonalds instead (honest hard work with tangible results), but I doubt you'd pass the hiring procedure.
-
-## About beverages
-
-I don't drink coffee, tea, hot chocolate or basically any beverage that is hot.
-
-#### How about a glass of water?
-
-I have a functioning tap right here.
-
-#### Soda then?
-
-I have a good supply right here.
-
-#### We also have beer?
-
-Not much of a beer drinker. Single Malt Scotch is more my thing (Aberlour, BenRiach, Glendronach, 
-Glenfarclas, Tomatin, among others).
-
-#### Pick whatever Scotch you like, we'll arrange it
-
-BenRiach 25 year old (not Authenticus), or Tomatin 30 year old, and I get to keep the bottle. That
- buys you an hour of my time at a venue near my current place of employment (that you arrange).
-
-##### That's pretty expensive
-
-Then I guess you don't want to talk to me?
- 
-#### Dude, forget about the drink, we're just trying to be friendly because we want to talk to you
-
-You can also buy me lunch at the [Broodbode in Deventer](https://www.broodbode.nl/deventer-grote-overstraat/).
- Then you'll have 30 minutes of my time, but I'll also be busy eating while you talk.
-
-## Yes, you are a recruiter
-
-The Merriam-Webster dictionary (which is a book that explains what words mean) defines "[to recruit](https://www.merriam-webster.com/dictionary/recruit)" as:
-
-> To secure the services of
-    
-With alternative verbs being "engage" or "hire".
-
-In other words, if you're trying to get me to work somewhere, you are trying to secure my services, ergo: recruiting.
-
-And since the `-er` suffix turns a verb into a "[person or thing that does an action indicated by the root verb](https://en.wiktionary.org/wiki/-er#Suffix)", 
-then, if you are _recruiting_, you are a **recruiter**.
-
-##### You can't just jump to conclusions like that!
-
-I can, it's called logic. Two consecutive applications of [modus ponens](https://en.wikipedia.org/wiki/Modus_ponens), to be exact. If this is
-too complicated for you, you have no business hiring developers.
-
-## Why didn't you respond to my inquiry?
-
-The following activity diagram explains everything:
-
-![Recruiter flowchart](recruiters.png)
+ * <a id="no-agency-recruiters"></a>[No agency recruiters](/recruiters/no-agency-recruiters)
+ * <a id="referrals"></a>[Referrals](/recruiters/referrals)
+ * <a id="give-me-a-salary-indication"></a>[Give me a salary indication](/recruiters/give-me-a-salary-indication)
+ * <a id="fuck-phonecalls"></a>[Fuck phonecalls](/recruiters/fuck-phonecalls)
+ * <a id="no-email"></a>[No e-mail](/recruiters/no-e-mail)
+ * <a id="insert-insult-here"></a>[&gt;Insert insult here&lt;](/recruiters/insert-insult-here)
+ * <a id="about-beverages"></a>[About beverages](/recruiters/about-beverages)
+ * <a id="yes-you-are-a-recruiter"></a>[Yes, you are a recruiter](/recruiters/yes-you-are-a-recruiter)
+ * <a id="why-didnt-you-respond-to-my-enquiry"></a>[Why didn't you respond to my enquiry](/recruiters/why-i-am-ignoring-you)

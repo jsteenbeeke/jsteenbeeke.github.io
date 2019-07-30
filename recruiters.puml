@@ -5,37 +5,57 @@ start
 if (Recruiter contacts me LinkedIn      ) then (Contact Invite      )
     :Press Ignore;
     :Block user;
+    stop;
 else (InMail)
     if (Works for recruitment agency?       ) then (No)
       :In house recruiter   ;
       if (Did recruiter actually read profile?          ) then (No)
          :Terse response;
-         if (Recruiter loses his shit?      ) then (Yes  )
-            :Taunt recruiter;
+         if (Recruiter loses his/her shit?      ) then (Yes  )
+            :Taunt recruiter    ;
             :Block user;
+            stop;
          else (No)
             :Delete conversation;
+            stop;
          endif
       else (Yes)
         if (Satisfied at current job        ) then (Yes     )
           :Polite refusal;
           :Archive conversation;
+          stop;
         else (No)
-            if (Is job offer interesting?       ) then (Yes)
-                :Start conversation;
-                :Positive outcome for recruiter     ;
-                stop;
+            if (Is job offer interesting?       ) then (Yes     )
+                :Actual conversation;
+                if (Still interesting?      ) then (Yes     )
+                   if (Enquire about salary     ) then (Recruiter agrees     )
+                        if (Acceptable salary?) then (Yes)
+                            :Agree to job application process   ;
+                            stop;
+                        else (No)
+                            :Polite refusal ;
+                            stop;
+                        endif
+                   else (Recruiter refuses  )
+                        :Impolite refusal;
+                        stop;
+                   endif
+
+                 else (No       )
+                    :Polite refusal;
+                    stop;
+                 endif
             else (No)
                 :Polite refusal;
                 :Archive conversation;
+                stop;
             endif
         endif
       endif
     else (Yes)
         :Block user;
+        stop;
     endif
 endif
-:Negative outcome for recruiter     ;
-stop
 
 @enduml

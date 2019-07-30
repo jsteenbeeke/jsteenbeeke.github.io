@@ -439,26 +439,32 @@ I'd suggest working at McDonalds instead (honest hard work with tangible results
 
 I don't drink coffee, tea, hot chocolate or basically any beverage that is hot.
 
-##### How about a glass of water?
+#### How about a glass of water?
 
 I have a functioning tap right here.
 
-##### Soda then?
+#### Soda then?
 
 I have a good supply right here.
 
-##### We also have beer?
+#### We also have beer?
 
-I prefer Single Malt Scotch.
+Not much of a beer drinker. Single Malt Scotch is more my thing (Aberlour, BenRiach, Glendronach, 
+Glenfarclas, Tomatin, among others).
 
-##### We have that too!
+#### Pick whatever Scotch you like, we'll arrange it
 
-I don't drink alcohol during weekdays.
+BenRiach 25 year old (not Authenticus), or Tomatin 30 year old, and I get to keep the bottle. That
+ buys you an hour of my time at a venue near my current place of employment (that you arrange).
+
+##### That's pretty expensive
+
+Then I guess you don't want to talk to me?
  
-##### Dude, forget about the drink, we're just trying to be friendly because we want to talk to you
+#### Dude, forget about the drink, we're just trying to be friendly because we want to talk to you
 
-Yes, I understood that five headings ago. Are you getting the hint that I don't *want* to talk to you yet
- or do I need to get blunt?
+You can also buy me lunch at the [Broodbode in Deventer](https://www.broodbode.nl/deventer-grote-overstraat/).
+ Then you'll have 30 minutes of my time, but I'll also be busy eating while you talk.
 
 ## Yes, you are a recruiter
 

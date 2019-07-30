@@ -383,7 +383,7 @@ Every now and then I also get contacted by recruiters from other countries, most
 had messages from Spain, Germany, the United States and Canada.
 
 The restriction on agency recruiters also applies to you, and extends to in-house recruiters unless you're looking for
-employees in an office that [I can reach by bike](#your-company-is-located-in-central-twente) (I know of one local company whose HR department is in Belgium).
+employees in an office that [matches my criteria for a comfortable commute](#your-company-has-a-comfortable-commute) (I know of one local company whose HR department is in Belgium).
 
 ## Referrals
 

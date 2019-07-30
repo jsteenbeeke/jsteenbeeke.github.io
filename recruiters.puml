@@ -2,23 +2,28 @@
 
 start
 
-if (Recruiter approaches me through LinkedIn) then (Contact Invite)
+if (Recruiter contacts me LinkedIn      ) then (Contact Invite      )
     :Press Ignore;
-    :Press 'I don't know this person';
+    :Block user;
 else (InMail)
-    if (Works for recruitment agency?) then (No)
-      :In house recruiter;
-      if (Did recruiter actually read profile?) then (No)
-        :Terse response;
-        :Delete conversation;
+    if (Works for recruitment agency?       ) then (No)
+      :In house recruiter   ;
+      if (Did recruiter actually read profile?          ) then (No)
+         :Terse response;
+         if (Recruiter loses his shit?      ) then (Yes  )
+            :Taunt recruiter;
+            :Block user;
+         else (No)
+            :Delete conversation;
+         endif
       else (Yes)
-        if (Satisfied at current job) then (Yes)
+        if (Satisfied at current job        ) then (Yes     )
           :Polite refusal;
           :Archive conversation;
         else (No)
-            if (Is job offer interesting?) then (Yes)
+            if (Is job offer interesting?       ) then (Yes)
                 :Start conversation;
-                :Positive outcome for recruiter;
+                :Positive outcome for recruiter     ;
                 stop;
             else (No)
                 :Polite refusal;
@@ -27,14 +32,10 @@ else (InMail)
         endif
       endif
     else (Yes)
-      if (Contact me before?) then (Yes)
         :Block user;
-      else (No)
-        :Delete conversation;
-        endif
     endif
 endif
-:Negative outcome for recruiter;
+:Negative outcome for recruiter     ;
 stop
 
 @enduml

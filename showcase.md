@@ -4,6 +4,8 @@ title: Showcase
 permalink: /showcase/
 ---
 
+*Last updated on the 30th of July, 2019*
+
 I have a thing against resumes. As a software engineer with quite a bit of experience there are a lot of applications, frameworks, libraries and technologies I have experience with, some more than others. There are many ways I could list this in a resume, but if I want to do the ones I have the most experience with any justice, this is going to result in a very long resume. During job interviews I've noticed that people tend to go down the list, look at what they recognize, and start asking questions about that, but they also ignore those they don't know, even if they
 are a significant part of my experience. As for my work history, there's [a complete and up-to-date list on LinkedIn](https://www.linkedin.com/in/jeroen-steenbeeke-1b13676/).
 
@@ -15,7 +17,7 @@ There are a number of projects that I semi-actively maintain in my spare time, f
 
 ### Beholder
 * **Technologies:** Docker Compose, Hibernate, HTML5 Canvas, Spring, Websockets, Wicket
-* **Open source:** [Yes](https://bitbucket.org/jsteenbeeke/beholder-web/src), Affero GPL.
+* **Open source:** [Yes](https://github.com/jsteenbeeke/beholder), Affero GPL.
 
 Beholder is a web application developed for my [Dungeons and Dragons](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons) group, that adds a visual aspect to an imagination-heavy game. Dungeons and Dragons is a so-called "pen and paper roleplaying game", meaning that the basic game has no board or props, and you can play the game without these, though it is recommended to use some sort of grid, as well as miniatures, whenever a combat situation arises.
 
@@ -40,23 +42,25 @@ steps, that can be applied to one or more source files. Example uses:
    * Create an implementation of this interface in a backend project
    * Create a proxy of this interface in a client project
 
-As of writing this, Andalite's documentation is still being updated (check the _documentation-effort_ branch), though you can find plenty of examples in another project of mine, Hyperion.
+As of writing this, Andalite is not well documented, and in the process of being ported to a different
+parser framework that supports Java 11 and higher.
 
 ### Hyperion
 * **Technologies:** Hibernate, JAX-RS, Maven, Quartz, Retrofit, Spring, Wicket
 * **Open Source:** [Yes](https://bitbucket.org/jsteenbeeke/hyperion), LGPL
 
-Hyperion is my toolbox: a big set of libraries that help me develop applications quickly. It is primarily
-inteded for Apache Wicket-based web applications, though more recent versions are also suitable for
-Wicket-less applications.
+Hyperion is my toolbox: a big set of libraries that help me develop applications quickly. It was initially
+designed for Wicket-based applications, though more recent versions are heavily modularized and can
+easily be used for backend-only development.
 
-Documentation in the master branch is rather sparse, which I am currently in the process of remedying in the `experimental` branch
+Documentation in the master branch is rather sparse, though the experimental branch (which will soon be
+the new *master*) has extensive Javadoc.
 
 ### Project Myriad
 * **Technologies:** Hibernate, JAX-RS, Retrofit, Spring, Wicket
-* **Open Source:** Will eventually be released under the Affero GPL
+* **Open Source:** No, but will eventually be released under the Affero GPL
 
 Project Myriad is a new website for [the Tysan Clan](https://www.tysanclan.com/), a gaming community I have
  been a part of since 2001. Our current website was the first Wicket application I ever made (and is an excellent example
-  of why you shouldn't hire me as a web designer), and the architecture is rather dated, so I figured I might as well replace the whole
- thing.
+  of why you shouldn't hire me as a web designer), and while it still receives regular updates, the architecture is
+  slightly dated.

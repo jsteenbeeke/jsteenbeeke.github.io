@@ -4,6 +4,8 @@ title: Info for recruiters
 permalink: /recruiters/
 ---
 
+*Last updated on the 30th of July, 2019*
+
 Hello there! If you're reading this then you're either a sentient web spider, or a human being looking for 
 an **experienced software developer**. I might have even sent you here after you messaged
  [me on LinkedIn](https://www.linkedin.com/in/jeroen-steenbeeke-1b13676/). 
@@ -34,6 +36,12 @@ should apply to your company if you want me working for it.
 
 A lot of people interpret the below list as my description of an ideal job. **It's not, it's what I consider the bare minimum to even consider working for you.** I'm not interested in companies that can meet _most_ of the requirements. I want a company that exceeds all of them.
 
+## I repeat, this is the bare minimum
+
+I often receive messages along the lines of "we can match most of what you're asking". **NOT. GOOD. ENOUGH.** 
+Read the above message another fifteen times, take off the rose-tinted glasses, and take a really good
+and critical look at your company before contacting me.
+
 ## You are looking for a person who is going to write code
 
 Project leads, testers, software analysts and business consultants all have their purpose within software organizations, but none of those positions appeal to me. My primary purpose in your organization should be the creation of software through writing code, otherwise I will not be a happy employee.
@@ -42,7 +50,10 @@ And no, I am not available (nor qualified) for a position as salesman or German 
 
 ## The languages you work with appeal to me
 
-The programming language I have the most experience with is **Java**, and I enjoy working with it, assuming we're talking about Java 8 or higher (though you should be migrating to 11 right about now). I'll also consider **Kotlin**, **JavaScript** or **TypeScript**.
+The programming language I have the most experience with is **Java**, and I enjoy working with it, assuming we're talking about Java 11 or higher 
+(you really should have moved on past version 8 by now). I'll also consider **Kotlin** as a suitable language. I'm not opposed
+to working with **Javascript** or **Typescript**, though my experiences with frontend frameworks so far
+has been rather underwhelming.
 
 ## The frameworks you work with appeal to me
 
@@ -65,17 +76,21 @@ While there's nothing wrong with freelancers or companies that employ them, I'm 
 
 ## Your job very rarely requires working overtime
 
-As much as I like programming, I like seeing my family even more. My current job almost never requires me to work overtime (fewer than once a year).
+As much as I like programming, I like seeing my family even more. My current job almost never requires
+me to work overtime (fewer than once a year).
 
-Mandatory evening knowledge sharing sessions are a no-go for me, and if you're one of those employers who doesn't strictly require attendance but still lets the attendance record affect performance reviews then you're a dick and I don't want to work for you.
+Mandatory evening knowledge sharing sessions are a no-go for me, and if you're one of those employers
+who doesn't strictly require attendance but still lets the attendance record affect performance
+reviews then you're a dick and I don't want to work for you.
 
 ## Developers are never on call
 
 If your system is so fragile that you need developers to be on call then I'm not touching it.
 
-### But we pay extra for standby duty!
+##### But we pay extra for standby duty!
 
-Money is worth less to me than time. And I can't buy back the sleep I lose when your misconfigured notification system calls me in the middle of the night.
+Money is worth less to me than time. And I can't buy back the sleep I lose when your misconfigured
+ notification system calls me in the middle of the night.
 
 ## I can work from home every now and then
 
@@ -84,25 +99,45 @@ work from home for an afternoon or a day. If your company forbids this, then I w
 
 ## Your contracts aren't filled with shit
 
-I will refuse to sign contracts that try to take away my intellectual property rights outside of the scope of the job. I have several creative hobbies, and broad assignment of intellectual property rights to you causes a whole lot of shit for me.
+I will refuse to sign contracts that try to take away my intellectual property rights outside of the 
+scope of the job. I have several creative hobbies, and broad assignment of intellectual property rights
+ to you causes a whole lot of shit for me.
 
 ## Your salaries are awesome
 
 If you're thinking of offering me a job, your salary should **beat** my current salary by a considerable margin.
  
-I have no patience for companies that think they can get away with a shit salary in a seller's market. If meeting my salary would create disparity with your current employees then I would seriously consider giving them a raise before they figure out they're being shafted.
+I have no patience for companies that think they can get away with a shit salary in a seller's market.
+ If meeting my salary would create disparity with your current employees then I would seriously consider giving them a raise before they figure out they're being shafted.
 
-### So, what number are we talking about?
+##### So, what number are we talking about?
 
 Double the modal income.
 
-### No developer at our company earns that much!
+##### No developer at our company earns that much!
 
-Then please tell your developers that my current employer is hiring and pays more, and let them mention my name when they apply here.
+Then you obviously can't afford me. 
+
+I suppose I could explain this with a soccer analogy (even though soccer isn't really my thing): your 
+company is like a soccer club playing in the Dutch [Eerste Divisie](https://en.wikipedia.org/wiki/Eerste_Divisie). 
+This means you've got decent players, some of them may even be brilliant, who will easily outclass
+amateurs and who get paid pretty good salaries, but nothing spectacular. These clubs, however, do not
+have the financial means to attract players from clubs who regularly participate in the [Champion's League](https://en.wikipedia.org/wiki/UEFA_Champions_League).
+
+##### That sounds really arrogant
+
+I'm generally quite humble, actually, though a lot of people tend to mistake humility for insecurity
+or lack of conviction.
+
+That said: I know I'm not the best programmer in the country, but I'm definitely above average. To continue the soccer
+analogy: I'd probably be the equivalent of a defensive player on an average [Bundesliga](https://en.wikipedia.org/wiki/Bundesliga)
+or [Premier League](https://en.wikipedia.org/wiki/Premier_League) club. Not the kind of player who
+regularly makes the news, but definitely one that is unaffordable for a [Eerste Divisie](https://en.wikipedia.org/wiki/Eerste_Divisie) club.
 
 ## The salary you offer me is not maxed out
 
-Not only do I expect an awesome salary, I expect good performance to be rewarded by an increase in salary. I'm nowhere near the max salary at my current job.
+Not only do I expect an awesome salary, I expect good performance to be rewarded by an increase in salary.
+ I'm nowhere near the max salary at my current job.
 
 ## Your company has good secondary benefits
 
@@ -111,18 +146,18 @@ I expect, as an absolute minimum, for your company to provide the following:
  * A good pension plan, with a sizable contribution of the fee by the employer
  * Paid travel expenses for my daily commute (or, if your company is **easily** reachable by train: a railway subscription)
  * At least 27 paid vacation days, preferably more
- * Free diet soda
+ * Free diet soda, non-caffeinated
  * A liberal policy to compensation of employee expenses
  
-### We have a soccer table / bean bag chairs!
+#### We have a soccer table / bean bag chairs!
 
 Your point being?
 
-#### That's a secondary benefit, right?
+##### That's a secondary benefit, right?
 
 No, that's furniture.
 
-#### But...
+##### But...
 
 Look, if you need trivial stuff like that to make your job opening look interesting
 then, sorry to say this, your job **isn't** interesting.
@@ -130,13 +165,24 @@ then, sorry to say this, your job **isn't** interesting.
 ### We have friday afternoon "borrels"!
 
 So do 99% of all companies I've seen recently. Generally speaking they pale in comparison
- to the monthly "borrel" at my current job.
+ to the monthly "borrel" at my current job, which has pizza and our own company beer.
 
 ## Your company has a sensible approach to agile development
 
-Agile software development is a good thing, and I believe the [agile manifesto](https://agilemanifesto.org) got a lot of things right. 
+Agile software development is a good thing, and I believe the [agile manifesto](https://agilemanifesto.org)
+ got a lot of things right. 
 
-Unfortunately, a lot of companies conflate "agile" with "SCRUM", of which I am skeptical. [SCRUM](https://en.wikipedia.org/wiki/Scrum_(software_development)) is often applied in such a way as to go counter to the tenet of "Individuals and interactions over processes and tools". I've been in one particular team where every retrospective would devolve into a two hour discussion about process details that had no measurable effect on our effectiveness. That discussion got old ten minutes after it started, and we kept coming back to that discussion every two weeks for almost 10 months (after which I quit the job, the team imploded shortly after that). And if your first reflex to this story is to start with "but you weren't _really_ doing SCRUM if that's what happened" then you can take your [No true Scotsman](https://en.wikipedia.org/wiki/No_true_Scotsman) fallacy and shove it up your ass.
+Unfortunately, a lot of companies conflate "agile" with "SCRUM", of which I am skeptical for a variety of reasons.
+[SCRUM](https://en.wikipedia.org/wiki/Scrum_(software_development)) is often applied in such a way 
+as to go counter to the tenet of "Individuals and interactions over processes and tools". I've been
+in one particular team where every retrospective would devolve into a two hour discussion about process
+details that had no measurable effect on our effectiveness. That discussion got old ten minutes after
+it started, and we kept coming back to that discussion every two weeks for almost 10 months (after
+which I quit the job, the team imploded shortly after that). I still refer to that team as "the SCRUM hell".
+ 
+And if your first reflex to this story is to start with "but you weren't _really_ doing SCRUM if that's
+what happened" then you can take your [No true Scotsman](https://en.wikipedia.org/wiki/No_true_Scotsman)
+fallacy and shove it up your ass.
 
 Agile development? Sure. Lots of overhead? Fuck no.
 
@@ -155,47 +201,51 @@ I also expect you to have dedicated software testers on staff. I've worked with 
 
 ## Your company takes application security seriously
 
-If I have to explain what OWASP is on my first day you probably have bigger problems than not being able to find developers,
- and I will quit on the spot.
+Things I should not have to do at your company:
+
+ * Explain what the OWASP top 10 is
+ * Explain why you shouldn't store passwords
+   * Or if you absolutely must: which hashing algorithm is suitable
+   * And no: MD5 or anything starting with SHA is not a correct answer (see also OWASP)
 
 ## Your company has a comfortable commute
 
 My current commute is roughly 1 hour, half of which is by train. I live in central Twente, and I use my commute to write fantasy novels. My next job should both enable me to keep doing this, but at the same time
 be close enough that I actually get to see my family. In practice this means that unless you're located close to the train station in either Deventer or Zwolle then I'm probably not interested.
 
-### I have a job in central Twente, actually
+#### I have a job in central Twente, actually
 
 Too close, that way can't do anything useful during my commute.
 
-#### Why is that a problem? 
+##### Why is that a problem? 
 
 Because I'm fucking telling you it's a problem.
 
-### How about Arnhem? That's in the east, right?
+#### How about Arnhem? That's in the east, right?
 
 It's also a bit farther west and south than Twente. Commute is 1.5 to 2 hours.
 
-### We have a job in Amsterdam, Rotterdam, The Hague, Utrecht or Eindhoven
+#### We have a job in Amsterdam, Rotterdam, The Hague, Utrecht or Eindhoven
 
 That's great! Go bother somebody who actually lives near there.
 
-### We have a job in Bavaria
+#### We have a job in Bavaria
 
 Which is seven hours from where I live, so fuck no.
 
-### We have a job in Vancouver
+#### We have a job in Vancouver
 
 Which is on the wrong side of the Atlantic for me.
 
-### We have a job on Mars
+#### We have a job on Mars
 
 Are you insa—hang on, really?
 
-#### Yeah, we want you for our manned mission
+##### Yeah, we want you for our manned mission
 
 I'm going to say no to taking part in such a mission, but please do get in touch to tell me about it.
  
-### What if we help you relocate?
+#### What if we help you relocate?
 
 I am not interested in relocating. There are several reasons for this, none of which are your business. All you need to know is it's not going to happen.
 
@@ -239,7 +289,7 @@ Developers need to concentrate. Putting us in a big room hurts our productivity.
  
 Four or five people in a single room is quite alright, though I'd love to work at a place that gave me a private office.
 
-### What if we give you a headphone with active noise-cancelling
+##### What if we give you a headphone with active noise-cancelling
 
 I have on of those, but I don't like wearing them all day.
 

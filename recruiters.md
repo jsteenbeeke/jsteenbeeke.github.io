@@ -4,7 +4,7 @@ title: Info for recruiters
 permalink: /recruiters/
 ---
 
-*Last updated on the 30th of July, 2019*
+*Last updated on the 1st of August, 2019*
 
 Hello there! If you're reading this then you're either a sentient web spider, or a human being looking for 
 an **experienced software developer**. I might have even sent you here after you messaged
@@ -13,7 +13,7 @@ an **experienced software developer**. I might have even sent you here after you
 Before we continue, a few words of warning:
 
  * I am currently employed, and not interested in leaving
-   * I'm not a freelancer
+   * I'm [not a freelancer](/recruiters/why-not-freelance)
  * I work a 32 hour part-time job (Monday, Tuesday, Thursday and Friday), this is non-negotiable
  * I am not willing to relocate
  * **[NO AGENCY RECRUITERS](/recruiters/no-agency-recruiters)**
@@ -72,7 +72,8 @@ Contracting (Dutch: detachering) does not appeal to me.
 
 ## You're looking for an employee, not a freelancer
 
-While there's nothing wrong with freelancers or companies that employ them, I'm not a freelancer, and prefer the certainty of a regular job.
+While there's nothing wrong with freelancers or companies that employ them, I'm [not a freelancer](/recruiters/why-not-freelance),
+ and prefer the certainty of a regular job.
 
 ## Your job very rarely requires working overtime
 
@@ -133,6 +134,11 @@ That said: I know I'm not the best programmer in the country, but I'm definitely
 analogy: I'd probably be the equivalent of a defensive player on an average [Bundesliga](https://en.wikipedia.org/wiki/Bundesliga)
 or [Premier League](https://en.wikipedia.org/wiki/Premier_League) club. Not the kind of player who
 regularly makes the news, but definitely one that is unaffordable for a [Eerste Divisie](https://en.wikipedia.org/wiki/Eerste_Divisie) club.
+
+##### If money is such an issue, then why don't you freelance?
+
+A [multitude of reasons](/recruiters/why-not-freelance). Also: companies that complain about high salaries
+ also complain about cost of freelancers.
 
 ## The salary you offer me is not maxed out
 

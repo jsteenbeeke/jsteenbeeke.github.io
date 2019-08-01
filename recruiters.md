@@ -168,10 +168,15 @@ No, that's furniture.
 Look, if you need trivial stuff like that to make your job opening look interesting
 then, sorry to say this, your job **isn't** interesting.
 
-### We have friday afternoon "borrels"!
+### We have Friday afternoon "borrels"!
 
-So do 99% of all companies I've seen recently. Generally speaking they pale in comparison
- to the monthly "borrel" at my current job, which has pizza and our own company beer.
+So do 99% of all companies I've seen recently. Why Fridays? Most people want to go home and start their
+weekends on Fridays, so attendance will always be an issue.
+
+My current employer does non-mandatory "borrels" on Thursdays, and only on the first of each month. Lots of people
+show up, and there's pizza (from our own pizza oven) and our own company beer.
+
+Unless you can somehow top this, your events aren't worth mentioning.
 
 ## Your company has a sensible approach to agile development
 

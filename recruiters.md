@@ -4,7 +4,7 @@ title: Info for recruiters
 permalink: /recruiters/
 ---
 
-*Last updated on the 1st of August, 2019*
+*Last updated on the 9th of September, 2019*
 
 Hello there! If you're reading this then you're either a sentient web spider, or a human being looking for 
 an **experienced software developer**. I might have even sent you here after you messaged
@@ -19,6 +19,8 @@ Before we continue, a few words of warning:
  * **[NO AGENCY RECRUITERS](/recruiters/no-agency-recruiters)**
    * No [foreign recruiters](/recruiters/no-agency-recruiters#foreign-recruiters) either
  * It's a seller's market
+ 
+Are you too important to read this wall of text but still want to pitch your job proposal to me? [I take bribes](/recruiters/bribes). If not, read on:
 
 Still reading? Good, here's a few things you need to keep in mind:
 

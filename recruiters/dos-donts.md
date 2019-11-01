@@ -14,8 +14,8 @@ If you do decide to contact me, here's a small list of things you should and sho
 
 ## Don't
 
+* Be arrogant, passive-aggressive or condescending
 * [Insist I call you on the phone](/recruiters/fuck-phonecalls)
 * Send me contact invites on LinkedIn
 * Try getting in touch with me through my current employer
 * Contact me [by e-mail](/recruiters/no-e-mail)
-* Assume I'm inflating numbers or making exaggerated claims in this article

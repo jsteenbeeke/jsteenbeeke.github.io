@@ -4,8 +4,7 @@ title: Bribes
 permalink: /recruiters/bribes
 ---
 
-Suppose you really want to talk to me about a potential job offer, but can't be bothered to go through
-my [rather long list](/recruiters) of demands, you basically have two alternative options.
+Suppose you really want to talk to me about a potential job offer, you basically have two options:
 
 1. [Buy me lunch in exchange for 20 minutes](#lunch)
 2. [Buy me whisky in exchange for 90 minutes](#whisky)
@@ -35,3 +34,7 @@ More expensive than an entry-level Scotch, maybe, but rather unimpressively pric
 Last time I checked. The BenRiach is about &euro;200 and the Tomatin about &euro;300. It's not like
  I'm asking you to buy a bottle of Brora or Port Ellen (those start at around &euro;1700 last time I
   checked).
+  
+### How about <insert whisky bottle here>?
+ 
+I won't say no if it's good whisky. Send me a message on LinkedIn to see how much time (if any) that buys you

@@ -20,6 +20,8 @@ project, which we'll refer to as `keycloak-client` in this post.
 The application is bundled as a pair of WAR files, one for the Wicket-based frontend, and one for the
 Spring and Resteasy-based backend.
 
+<!--more-->
+
 ## Configuration
 
 Keycloak runs as a Docker container on my home server, and on this installation I created a realm named 

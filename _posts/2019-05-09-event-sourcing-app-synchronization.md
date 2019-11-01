@@ -17,6 +17,8 @@ to the Feruchemists of the [Mistborn](https://en.wikipedia.org/wiki/Mistborn) se
 This app has been working admirably for quite some time now, though last year I did a complete rebuild
 to switch to a more flexible method of defining repeating tasks.
 
+<!--more-->
+
 ## The problem
 
 The old application synchronized with the backend by performing a simple query: give me all currently

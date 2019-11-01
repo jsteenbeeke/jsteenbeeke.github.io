@@ -12,6 +12,7 @@ two more offers to give a presentation which I had to decline due to scheduling 
 
 The article in question is now live, but it isn't really all that exciting for a technical audience, so
 I decided to tell a bit more about Vavr on my own blog.
+<!--more-->
 
 ## What is it?
 

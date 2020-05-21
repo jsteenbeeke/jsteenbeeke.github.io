@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Background sync in Android with Workmanager"
+title:  "Background sync in Android with WorkManager"
 date:   2020-05-21 22:11:00 +0100
 ---
 

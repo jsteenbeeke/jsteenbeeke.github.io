@@ -76,9 +76,12 @@ is 229112, roughly 300 events for each task. This is divided as follows:
 
 ```
 
-I have not yet determined the cause of this, but considering the fact that most of the events logged
+~~I have not yet determined the cause of this, but considering the fact that most of the events logged
  are updates (a repetition is updated by deleting the old one and creating a new one), I suspect the
- app may be registering its updates more than once (perhaps a concurrency issue?).
+ app may be registering its updates more than once (perhaps a concurrency issue?).~~
  
-For now I can probably mitigate this duplicate data by creating a deduplication background job. Once
- I have solved this mystery I will create a follow-up post.
+~~For now I can probably mitigate this duplicate data by creating a deduplication background job. Once
+ I have solved this mystery I will create a follow-up post.~~
+ 
+ **Update, 21st of May 20202**: I have since managed to solve this issue. The background sync job had multiple instances
+  running concurrently, as each new app start registered a new instance of the sync job. [Here's how I solved it.](/2020/05/21/background-sync-in-android.html).

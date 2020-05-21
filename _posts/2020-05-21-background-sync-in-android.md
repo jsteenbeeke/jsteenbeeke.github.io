@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Background sync in Android"
+title:  "Background sync in Android with Workmanager"
 date:   2020-05-21 22:11:00 +0100
 ---
 
@@ -26,14 +26,19 @@ So how did I fix this? By making the following change:
 
 ```kotlin
 
-val request = PeriodicWorkRequest.Builder(SynchronizationWorker::class.java,
-                            Duration.ofMinutes(60L)).addTag(SynchronizationWorker::class.java.name)
-                            .build()
+val request = PeriodicWorkRequest.Builder(
+            SynchronizationWorker::class.java,
+            Duration.ofMinutes(60L)).addTag(SynchronizationWorker::class.java.name
+        ).build()
+
 // OLD
 WorkManager.getInstance().enqueue(request)
 
 // NEW
-WorkManager.getInstance().enqueueUniquePeriodicWork("MyAppNameBackgroundSync", ExistingPeriodicWorkPolicy.KEEP, request)
+WorkManager.getInstance().enqueueUniquePeriodicWork(
+            "MyAppNameBackgroundSync", 
+            ExistingPeriodicWorkPolicy.KEEP, 
+            request)
 
 ```
 

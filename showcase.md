@@ -4,7 +4,7 @@ title: Showcase
 permalink: /showcase/
 ---
 
-*Last updated on the 30th of July, 2019*
+*Last updated on the 21st of May, 2020*
 
 I have a thing against resumes. As a software engineer with quite a bit of experience there are a lot of applications, frameworks, libraries and technologies I have experience with, some more than others. There are many ways I could list this in a resume, but if I want to do the ones I have the most experience with any justice, this is going to result in a very long resume. During job interviews I've noticed that people tend to go down the list, look at what they recognize, and start asking questions about that, but they also ignore those they don't know, even if they
 are a significant part of my experience. As for my work history, there's [a complete and up-to-date list on LinkedIn](https://www.linkedin.com/in/jeroen-steenbeeke-1b13676/).
@@ -52,15 +52,3 @@ parser framework that supports Java 11 and higher.
 Hyperion is my toolbox: a big set of libraries that help me develop applications quickly. It was initially
 designed for Wicket-based applications, though more recent versions are heavily modularized and can
 easily be used for backend-only development.
-
-Documentation in the master branch is rather sparse, though the experimental branch (which will soon be
-the new *master*) has extensive Javadoc.
-
-### Project Myriad
-* **Technologies:** Hibernate, JAX-RS, Retrofit, Spring, Wicket
-* **Open Source:** No, but will eventually be released under the Affero GPL
-
-Project Myriad is a new website for [the Tysan Clan](https://www.tysanclan.com/), a gaming community I have
- been a part of since 2001. Our current website was the first Wicket application I ever made (and is an excellent example
-  of why you shouldn't hire me as a web designer), and while it still receives regular updates, the architecture is
-  slightly dated.

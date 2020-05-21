@@ -28,7 +28,9 @@ So how did I fix this? By making the following change:
 
 val request = PeriodicWorkRequest.Builder(
             SynchronizationWorker::class.java,
-            Duration.ofMinutes(60L)).addTag(SynchronizationWorker::class.java.name
+            Duration.ofMinutes(60L)
+        ).addTag(
+            SynchronizationWorker::class.java.name
         ).build()
 
 // OLD

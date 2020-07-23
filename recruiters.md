@@ -17,14 +17,13 @@ shortened it to just some basic instructions.
 Some things you need to know:
 
  * I am currently employed, and **not interested in leaving**
-    * I'm [not currently a freelancer](/recruiters/why-not-freelance)
+    * I'm not currently a freelancer, though [I am not ruling this out as a future career move](/recruiters/about-freelancing)
  * Even if I were interested in leaving, the current pandemic has reduced the chances of me leaving  my current job
    down from "highly unlikely" to "not a snowball's chance in hell".
  * I work a 32 hour part-time job (Monday, Tuesday, Thursday and Friday), this is **non-negotiable**
  * I live in Twente, and am **neither willing to relocate nor comfortable with a long commute by car**
  * I do not deal with [agency recruiters](/recruiters/no-agency-recruiters), especially if they're [not based in the Netherlands](/recruiters/no-agency-recruiters#foreign-recruiters)
- * I'm [not available for phone calls](/recruiters/fuck-phonecalls), and I'm **unlikely going to meet with you unless you offer a [bribe](/recruiters/bribes)**
- * Read my list of [do's and don'ts](/recruiters/dos-donts) before you contact me. If you don't I'll likely
- just send you back here.
+ * I'm [not available for phone calls](/recruiters/fuck-phonecalls), and I'm **unlikely to meet with you unless you offer a [bribe](/recruiters/bribes)**
+ * Read my list of [do's and don'ts](/recruiters/dos-donts) before you contact me. If you don't I'll likely just send you back here.
  
 

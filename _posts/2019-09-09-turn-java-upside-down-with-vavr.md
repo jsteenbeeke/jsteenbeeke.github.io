@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Turn Java upside down with Vavr"
+author: "Jeroen Steenbeeke"
 date:   2019-11-01 14:15:00 +0100
 ---
 Last June I gave a presentation about [vavr](https://vavr.io) at [our company's employee developer conference (site in Dutch)](https://topicus.nl/evenementen/topiconf/),

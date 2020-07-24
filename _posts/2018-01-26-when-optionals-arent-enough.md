@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "When Optionals aren't enough"
+author: "Jeroen Steenbeeke"
 date:   2018-01-26 16:06:00 +0100
 ---
 I'm a big fan of [Optionals](https://docs.oracle.com/javase/9/docs/api/java/util/Optional.html), primarily

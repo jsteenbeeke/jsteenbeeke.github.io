@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Branch reduction with Optionals"
+author: "Jeroen Steenbeeke"
 date:   2018-01-11 14:33:00 +0100
 ---
 One thing I tend to put a lot of effort into is maintaining good test coverage for my projects. It's not always perfect,

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Mobile app synchronization using event sourcing"
+author: "Jeroen Steenbeeke"
 date:   2019-04-16 11:28:00 +0100
 ---
 A couple of years ago I followed a course on the [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done)

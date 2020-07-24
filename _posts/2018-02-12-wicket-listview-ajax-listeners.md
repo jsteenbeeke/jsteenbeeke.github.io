@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Wicket ListViews and Ajax listeners"
+author: "Jeroen Steenbeeke"
 date:   2018-02-12 18:33:00 +0100
 ---
 One of my favorite web frameworks is [Apache Wicket](https://wicket.apache.org/), a component-based server-side web

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Determine test effectiveness with Mutation Testing"
+author: "Jeroen Steenbeeke"
 date:   2018-01-15 17:04:00 +0100
 ---
 Has one of the following ever happened to you?

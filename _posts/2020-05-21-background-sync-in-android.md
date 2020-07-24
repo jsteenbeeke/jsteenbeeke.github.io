@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Background sync in Android with WorkManager"
+author: "Jeroen Steenbeeke"
 date:   2020-05-21 22:11:00 +0100
 ---
 

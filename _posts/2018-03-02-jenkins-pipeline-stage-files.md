@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Jenkins, Docker, and sharing data between stages"
+author: "Jeroen Steenbeeke"
 date:   2018-03-04 10:18:00 +0100
 ---
 I've recently started moving a number of projects from their classic Jenkins Maven Project setup to Jenkins Pipeline

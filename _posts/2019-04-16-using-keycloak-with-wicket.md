@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Using Keycloak with Wicket"
+author: "Jeroen Steenbeeke"
 date:   2019-04-16 11:28:00 +0100
 ---
 I have a number of [Wicket](http://wicket.apache.org/)-based web applications for various hobby purposes. 

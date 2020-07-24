@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Arquillian for Java EE testing"
+author: "Jeroen Steenbeeke"
 date:   2020-07-23 17:15:00 +0200
 ---
 

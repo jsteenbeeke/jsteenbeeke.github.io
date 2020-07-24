@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Tales from the interview"
+author: "Jeroen Steenbeeke"
 date:   2019-03-12 16:22:00 +0100
 ---
 Last October I switched jobs. After almost two years of working at a supplier of public transport software

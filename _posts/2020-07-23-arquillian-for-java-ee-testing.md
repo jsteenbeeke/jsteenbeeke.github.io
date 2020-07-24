@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Arquillan for Java EE testing"
+title:  "Arquillian for Java EE testing"
 date:   2020-07-23 17:15:00 +0200
 ---
 

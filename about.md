@@ -34,12 +34,20 @@ prefer automating the creation of dumb code over creating smart code that solves
 More recently I've developed an interest in functional programming, which, if used in moderation, can simplify
 quite a bit of logic.
  
-Java (11 or higher) is still my language of choice, though I definitely don't mind using Kotlin either.
+Java (11 or higher) is still my language of choice, with Kotlin a close second. I'll happily take on
+a Typescript-based project too, and also have a (relatively new) interest in Rust.
 
-Despite their popularity, I have not had much experience with Javascript (or Typescript) based frontend
- frameworks (with the exception of older versions of EmberJS, which I can't recommend).
+#### What I don't like to code
+
+I have trouble taking anything built in PHP seriously, and will go out of my way to avoid the language
+if at all possible.
+
+And while I love Java, this love does not extend to frameworks such as JSF and certainly not to antiquated
+technologies such as JSP.
  
 ## What I do besides coding
  
- [I write fantasy books](https://www.jeroensteenbeeke.nl), enjoy an occassional glass of Scotch, read a lot of books, play complicated and/or time-consuming
- video games (Crusader Kings 2, Dwarf Fortress, Factorio, Kerbal Space Program, Minecraft, Stardew Valley), go on a hike, and, most importantly, spend time with my family.
+ [I write fantasy books](https://www.jeroensteenbeeke.nl), enjoy an occassional glass of Scotch, bake bread, 
+ read a lot of books, play complicated and/or time-consuming video games (Crusader Kings 2, Dwarf Fortress,
+ Factorio, Kerbal Space Program, Minecraft, Stardew Valley), go on a hike, and, most importantly,
+ spend time with my family.

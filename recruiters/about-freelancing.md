@@ -4,6 +4,13 @@ title: Freelancing
 permalink: /recruiters/about-freelancing
 ---
 
-I am not currently a freelancer, though I am keeping this option open as a future career move, and would
-be happy to hear from you if you're a company located in or close to Twente and are willing to employ
-a freelancer for 32 hours a week.
+I am not opposed to the idea of freelancing, and if I ever quit my current job, it is very likely my next step will be
+to start as a freelancer. While this carries a significantly higher risk than regular employment, I am tempted by the
+freedom freelancing offers, and as such, am not likely to respond favoribly to regular job offers.
+
+If, however, your company:
+
+ * Is located in Twente
+ * Willing to work with freelancers
+ 
+Then feel free to reach out to me!

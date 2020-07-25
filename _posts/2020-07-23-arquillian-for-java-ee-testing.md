@@ -63,7 +63,7 @@ public class MyFirstArquillianDeployment {
 }
 ```
 This class will then automatically be detected by Arquillian for any test on the classpath, saving you
-a lot of copy/paste work. The above code only creates an empty EAR file however, so to create a useful
+a lot of copy/paste work. The above code only creates an empty WAR file however, so to create a useful
 archive we need to do a bit more work. Fortunately, Arquillian (or, ShrinkWrap, to be exact) can also
 integrate with Maven. Below is a more or less complete example of a deployment that creates a testable WAR.
 

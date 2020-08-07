@@ -51,7 +51,7 @@ create a Deployment: this describes your application, and will cause an in-memor
 Every single Arquillian tutorial I've ever seen tells you that this Deployment should be created by
 a static method in your test class annotated `@Deployment`. While this will certainly work, it is not
 practical in a codebase of any size. Instead, you want to create a specialized class for this and
-annotate it with `@ArquillianSuiteDeployment`:
+annotate it with `@ArquillianSuiteDeployment` from the [Arquillian Suite Extension](https://github.com/ingwarsw/arquillian-suite-extension):
 
 ```java
 @ArquillianSuiteDeployment

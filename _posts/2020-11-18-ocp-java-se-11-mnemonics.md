@@ -9,6 +9,8 @@ Two weeks ago I passed the [Oracle 1Z0-819 exam](https://education.oracle.com/ja
 I've already seen a massive increase in the number of recruiters contacting me, so if you're considering doing this exam,
 there might be spam afterwards.
 
+[![OCP Java SE 11 badge](/assets/img/oracle-certified-professional-java-se-11-developer.png)](https://www.youracclaim.com/badges/6fb72fa6-bfbd-4209-bb6a-efa8de316ef4/public_url)
+
 This exam was interesting in a number of ways. First of all, I never originally intended to take this exam,
 as originally there were two exams for this certification:
 

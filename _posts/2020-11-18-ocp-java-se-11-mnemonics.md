@@ -21,7 +21,7 @@ In fact, I had already passed the first exam back in February, and had only star
 the second one when Oracle contacted me to say the old exams were being invalidated, and I had a week left
 to do the second one.
 
-Not feeling too confident about what was supposed to be six weeks of study into four days, I cancelled my 1Z0-816 exam
+Not feeling too confident about compressing what was supposed to be six weeks of study into four days, I cancelled my 1Z0-816 exam
 and opted to take the 1Z0-819 exam on the same day I originally planned the old exam. The problem: this exam covers all topics of both old exams, so I still had to
 study twice as much material in six weeks. And I succeeded.
 
@@ -50,6 +50,7 @@ From this you can distill the actual operator precedence in Java:
 - **A**ddition and subtraction
 - **S**hift operators
 - **R**elational operators
+- **E**quivalence operators
 - **L**ogical operators
 - **S**hort-circuit operators
 - **T**ernary operators

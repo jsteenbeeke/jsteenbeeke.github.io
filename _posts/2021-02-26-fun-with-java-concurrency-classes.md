@@ -58,11 +58,10 @@ Runnable astronaut = () -> {
 	System.out.println("Flying around");
 	System.out.println("Going back inside");
 	spacesuit.release();
-        };
-		for (int i = 0; i < 5; i++) {
-		new Thread(astronaut).start();
-		}
-        
+};
+for (int i = 0; i < 5; i++) {
+    new Thread(astronaut).start();
+}
 ```
 
 One thing to keep in mind with Semaphores is that unlike ReentrantLock they are not tied to a specific thread. Any thread

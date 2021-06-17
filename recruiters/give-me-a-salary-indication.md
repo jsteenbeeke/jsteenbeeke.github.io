@@ -1,15 +1,64 @@
 ---
-layout: page
-title: Give me a salary indication
-permalink: /recruiters/give-me-a-salary-indication
+layout: page title: Give me a salary indication permalink: /recruiters/give-me-a-salary-indication
 ---
 
-I require a salary indication prior to any interviews taking place. This is to avoid spending hours on interviews only
-to find out that a company can't afford me.
- 
-I expect the salary indication to be based on fulltime employment, and expressed as either a yearly or monthly salary. 
-I'll also accept a range, but only if it's not too broad.
+Do you value your time? I do! As such, for the very low number of jobs I might actually be
+interested in, I have the following rule regarding job interviews:
 
-And yes, you can make an estimate without having interviewed me. My work history can be easily found on LinkedIn, and if
-you can't get a decent picture of what I can do based on the numerous code samples on this site and on Github and Bitbucket,
-then you have no business hiring developers in the first place.
+* **No interviews until I get a salary indication**
+
+Don't you just love it when you spend several hours going through interviews (or worse: spending a
+week on an assessment), only to find out that:
+
+* The company figures you'll accept a 10% lower salary than what you're currently earning
+* Not only that, but the max salary at this company is already lower than your current salary
+
+This [has happened to me](/2019/03/12/tales-from-the-interview.html#the-hurried-startup), and I'm
+not going to waste my time on this again. So again:
+
+* **No interviews until I get a salary indication**
+
+In addition: 
+* I want to know the extent of the salary scales. It's one thing to get an acceptable
+  salary, but not if it means no further increases are forthcoming
+* You only get one shot
+
+## Common excuses
+
+The following excuses will not be accepted:
+
+### "We need to talk to you first to see what you're capable of"
+
+It is a well-researched fact
+that [job interviews are not suitable for assessing a candidate's capabilites (article in Dutch)](https://decorrespondent.nl/8700/de-slechtste-manier-om-een-goede-werknemer-te-vinden-een-sollicitatiegesprek/346155704400-8e4f5571)
+, and no, you are not the exception.
+
+So no, you do not need to talk to me to give me a salary indication. Go look at
+my [LinkedIn profile](https://www.linkedin.com/in/jeroen-steenbeeke-1b13676/),
+[Github](https://github.com/jsteenbeeke), [Bitbucket](https://bitbucket.org/jsteenbeeke/)
+and/or [Stackoverflow profile](https://stackoverflow.com/users/8819761/jeroen-steenbeeke), or, you know, [my tech blog](/) if you
+need inspiration.
+
+### "How much do you want?"
+
+I will not make the first offer. Let's use D&D currency for illustrative purposes:
+
+* Current salary is 25gp a month
+* Will accept a new job that pays at least 30gp
+* Potential employer has 35gp in mind, but asks me what I'd like to earn
+* I state 32gp, employer accepts
+* I earn 3gp less than I could have
+
+### "We don't like people who are overly focussed on salary"
+
+Excellent, I'd love to have an emptier inbox. I'm sure there are hundreds of other potential candidates
+you can go bother instead. 
+
+### "Enjoying your job is much more important than getting paid well"
+
+They're not mutually exclusive, and every single company who has ever told me this had a really toxic
+work environment in addition to their low salaries.
+
+### "How about you tell us your current salary so we can make a fitting offer?"
+
+Sure, but first you tell me the current salaries of all your employees with similar levels of experience.

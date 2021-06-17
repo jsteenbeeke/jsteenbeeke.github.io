@@ -9,6 +9,9 @@ Suppose you really want to talk to me about a potential job offer, you basically
 1. [Buy me lunch in exchange for 20 minutes](#lunch)
 2. [Buy me whisky in exchange for 90 minutes](#whisky)
 
+Both options are only available if [you are not an agency recruiter](/recruiters/no-agency-recruiters), 
+and I get [a salary indication upfront](/recruiters/give-me-a-salary-indication), that I consider acceptable.
+
 ## Lunch
 
 I will happily talk to you about potential jobs, in exchange for a free lunch at the 
@@ -21,8 +24,8 @@ customer, so if you misbehave that reflects poorly on me.
 Can't make your pitch in 20 minutes? In exchange for one of the following bottles of Scotch I'll happily
 talk to you for up to 90 minutes:
 
-* [BenRiach 25 year old](https://www.benriachdistillery.com/our-whiskies/aged-25-years/) (and **not** the Authenticus)
-* [Tomatin 30 year old](http://www.tomatin.com/30year)
+* [BenRiach 25 year old](https://www.benriachdistillery.com/our-whiskies/the-twenty-five/)
+* [Tomatin 30 year old](https://www.tomatin.com/30year)
 
 One caveat: you'll have to arrange a venue for us to talk, and it has to be within walking distance 
 of Deventer's train station.

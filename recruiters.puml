@@ -1,61 +1,79 @@
 @startuml
 
 start
-
-if (Recruiter contacts me LinkedIn      ) then (Contact Invite      )
-    :Press Ignore;
-    :Block user;
-    stop;
-else (InMail)
-    if (Works for recruitment agency?       ) then (No)
-      :In house recruiter   ;
-      if (Did recruiter actually read profile?          ) then (No)
-         :Terse response;
-         if (Recruiter loses his/her shit?      ) then (Yes  )
-            :Taunt recruiter    ;
-            :Block user;
-            stop;
-         else (No)
-            :Delete conversation;
-            stop;
-         endif
-      else (Yes)
-        if (Satisfied at current job        ) then (Yes     )
-          :Polite refusal;
-          :Archive conversation;
-          stop;
-        else (No)
-            if (Is job offer interesting?       ) then (Yes     )
-                :Actual conversation;
-                if (Still interesting?      ) then (Yes     )
-                   if (Enquire about salary     ) then (Recruiter agrees     )
-                        if (Acceptable salary?) then (Yes)
-                            :Agree to job application process   ;
-                            stop;
-                        else (No)
-                            :Polite refusal ;
-                            stop;
-                        endif
-                   else (Recruiter refuses  )
-                        :Impolite refusal;
-                        stop;
-                   endif
-
-                 else (No       )
-                    :Polite refusal;
-                    stop;
-                 endif
-            else (No)
-                :Polite refusal;
-                :Archive conversation;
-                stop;
-            endif
+if (Recruiter contacts me ) then (Email or phone      )
+    if (Did I give the recruiter my e-mail or phone number?) then (Yes)
+        if (Is the recruiter an asshole?) then (No)
+        else (Yes)
+            :Block sender;
+            detach
         endif
-      endif
-    else (Yes)
-        :Block user;
+    else (No)
+        :Block sender;
+        detach
+    endif
+else (LinkedIn    )
+    if (Recruiter contacts me LinkedIn      ) then (Contact Invite      )
+        :Press Ignore;
+        :Select "I don't know this person";
         stop;
+    else (InMail)
+        if (Works for recruitment agency?       ) then (No)
+          :In house recruiter   ;
+          if (Did recruiter actually read profile?          ) then (No)
+             :Terse response;
+             if (Recruiter loses his/her shit?      ) then (Yes  )
+                :Taunt recruiter    ;
+                :Block user;
+                detach
+             else (No)
+                :Delete conversation;
+                detach
+             endif
+          else (Yes)
+            :In-house recruiter that actually read my profile;
+          endif
+        else (Yes)
+            :Polite refusal;
+            detach
+        endif
     endif
 endif
+if (Satisfied at current job        ) then (Yes     )
+  if (Recruiter offers bribe) then (No)
+        :Polite refusal;
+         detach;
+  else (Yes)
+            switch (What sort of bribe?)
+            case (  Bottle of 30 year old Tomatin)
+                :90 minutes of my time;
+            case (  Bottle of 25 year old BenRiach))
+                :90 minutes of my time;
+            case (  Other bottle of single malt whisky I like)
+                :Somewhere between 20 and 90 minutes of my time;
+            case (  Lunch at Broodbode)
+                :20 minutes of my time;
+            endswitch
+    endif
+else (No       )
+endif
 
+if (Recruiter willing to share salary upfront) then (No)
+else (Yes)
+        if (Salary interesting) then (No)
+        else (Yes)
+            if (Is job offer interesting?       ) then (No)
+            else (Yes)
+                :Actual conversation;
+                if (Still interesting?      ) then (Yes     )
+                    :Agree to job application process   ;
+                    detach
+                else (No       )
+                endif
+                endif
+         endif
+endif
+
+:Polite refusal;
+detach
 @enduml

@@ -56,8 +56,10 @@ you can go bother instead.
 
 ### "Enjoying your job is much more important than getting paid well"
 
-They're not mutually exclusive, and every single company who has ever told me this had a really toxic
-work environment in addition to their low salaries.
+They're not mutually exclusive, I currently have a very enjoyable job with a nice salary. 
+
+Besides, every single company who has ever told me I should focus on enjoyment rather than compensation
+had, rather ironically, a really toxic work environment in addition to their low salaries.
 
 ### "How about you tell us your current salary so we can make a fitting offer?"
 

@@ -20,17 +20,17 @@ simple project and add the following dependency:
 <dependency>
 	<groupId>com.amazonaws</groupId>
 	<artifactId>aws-lambda-java-core</artifactId>
-    <version>${amazon.aws.lambda.java.core.version}</version>
+	<version>${amazon.aws.lambda.java.core.version}</version>
 </dependency>
 ```
 This requires you to set a property for the latest SDK version. I used version 1.2.1:
 
 ```xml
-    <properties>
-        <maven.compiler.source>11</maven.compiler.source>
-        <maven.compiler.target>11</maven.compiler.target>
-        <amazon.aws.lambda.java.core.version>1.2.1</amazon.aws.lambda.java.core.version>
-    </properties>
+<properties>
+    <maven.compiler.source>11</maven.compiler.source>
+    <maven.compiler.target>11</maven.compiler.target>
+    <amazon.aws.lambda.java.core.version>1.2.1</amazon.aws.lambda.java.core.version>
+</properties>
 ```
 AWS Lambda currently supports Java versions 8 and 11. With all this configured we can now create our handler.
 
@@ -148,11 +148,11 @@ there is no way of retrieving it once your close the page.
 To use the function, you need to use the Amazon SDK. First we need to add the SDK dependency:
 
 ```xml
-    <dependency>
-        <groupId>com.amazonaws</groupId>
-        <artifactId>aws-java-sdk-lambda</artifactId>
-        <version>${amazon.aws.lambda.sdk.version}</version>
-    </dependency>
+<dependency>
+    <groupId>com.amazonaws</groupId>
+    <artifactId>aws-java-sdk-lambda</artifactId>
+    <version>${amazon.aws.lambda.sdk.version}</version>
+</dependency>
 ```
 I used version `1.12.2`:
 ```xml

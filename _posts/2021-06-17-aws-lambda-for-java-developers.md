@@ -4,7 +4,7 @@ title:  AWS Lambda for Java developers
 author: "Jeroen Steenbeeke"
 date:   2021-06-17 17:45:00 +0200
 ---
-Serverless programming is something I've known about for quite some time, but never really gotten around
+Serverless computing is something I've known about for quite some time, but never really gotten around
 to doing anything with. Finally deciding to see what the fuss was about, I set out to build something
 that could be run on AWS Lambda. This was surprisingly easy, and in this article I will illustrate how
 to create a simple function that converts a `long` representing seconds since the Unix epoch to an ISO-8601 formatted date.

@@ -32,7 +32,8 @@ This requires you to set a property for the latest SDK version. I used version 1
     <amazon.aws.lambda.java.core.version>1.2.1</amazon.aws.lambda.java.core.version>
 </properties>
 ```
-AWS Lambda currently supports Java versions 8 and 11. With all this configured we can now create our handler.
+AWS Lambda currently has base images for Java versions 8 and 11, so I set my source level to 11. With
+all this configured we can now create our handler.
 
 ## Function handler
 
@@ -57,11 +58,35 @@ You can easily have it receive and return JSON objects.
 To deploy the function, we need to do several things. First we need to compile our function and copy any dependencies
 it includes to our target folder. Next, we need to package all this in a Docker container that uses
 Amazon's Java images as a base. Then we need to deploy the image to a registry that AWS can read from,
-such as an Amazon ECR registry, and finally we need to create the actual function in AWS Lambda
+such as an Amazon ECR registry, and finally we need to create the actual function in AWS Lambda.
 
 ### Configuring Maven to include dependencies
 
+If you use any external libraries, you need to include them in your Docker image. Add the following snippet to your `pom.xml`:
 
+```xml
+ <build>
+	<plugins>
+		<plugin>
+			<groupId>org.apache.maven.plugins</groupId>
+			<artifactId>maven-dependency-plugin</artifactId>
+			<configuration>
+				<includeScope>runtime</includeScope>
+			</configuration>
+
+			<executions>
+				<execution>
+					<id>copy-dependencies</id>
+					<phase>package</phase>
+					<goals>
+						<goal>copy-dependencies</goal>
+					</goals>
+				</execution>
+			</executions>
+		</plugin>
+	</plugins>
+</build>
+```
 
 ### Creating the Docker image
 

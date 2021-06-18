@@ -11,6 +11,19 @@ to create a simple function that converts a `long` representing seconds since th
 
 <!--more-->
 
+## Security considerations
+
+AWS has **a lot** of services to offer, and generally speaking your AWS root account is tied to your
+(or your boss') creditcard. If your credentials fall into the wrong hands, you can get into a lot of
+financial trouble.
+
+When going through this article I recommend you create separate API accounts for:
+
+* Creating and managing the Docker image for your function in Amazon Elastic Container Registry
+* Invoking the lambda function
+
+And **never, under any circumstance, put the keys to these accounts in a public Git repository**.
+
 ## Getting started
 
 Maven is my go-to tool for managing projects, and to develop a lambda function you need to create 
@@ -142,9 +155,11 @@ using Amazon IAM, and [Amazon has good documentation on this subject](https://do
 
 Creating the function is simply a matter of going to the AWS Lambda interface, giving it a name,
 and selecting an image using the "Browse images" functionality. Amazon will also give you the option
-of creating a role specifically for this function, but this does not configure access to the Lambda function.
+of creating a role specifically for this function, but by default this role will not have the ability to
+invoke (execute) the lambda function.
 
-A policy such as the following will suffice (remember to input the ARN of your function):
+I solved this by creating a new policy in IAM, and assigning this policy to an API user specifically
+meant for invoking the lambda function.
 
 ```json
 {
@@ -194,8 +209,9 @@ public AWSLambda createClient(String key, String secret, String region) {
 		.build();
 }
 ```
-You can then use this client to invoke any function you have access to. Let's try the function we
-wrote earlier. Keep in mind that all inputs and outputs are formatted in JSON:
+Use the key and secret for [the user you created earlier](#creating-the-function).
+
+Let's try the function we wrote earlier. Keep in mind that all inputs and outputs are formatted in JSON:
 ```java
 // Use Jackson to convert the output
 ObjectMapper objectMapper = new ObjectMapper();

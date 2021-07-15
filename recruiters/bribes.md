@@ -9,7 +9,7 @@ Suppose you really want to talk to me about a potential job offer, you basically
 1. [Buy me lunch in exchange for 20 minutes](#lunch)
 2. [Buy me whisky in exchange for 90 minutes](#whisky)
 
-Both options are only available if [you are not an agency recruiter](/recruiters/no-agency-recruiters), 
+Both options are only available if we're not currently in the middle of global pandemic, [you are not an agency recruiter](/recruiters/no-agency-recruiters), 
 and I get [a salary indication upfront](/recruiters/give-me-a-salary-indication), that I consider acceptable.
 
 ## Lunch

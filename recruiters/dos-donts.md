@@ -11,6 +11,7 @@ If you do decide to contact me, here's a small list of things you should and sho
 * Describe your application's technology stack
 * [Give a salary indication up front](/recruiters/give-me-a-salary-indication)
 * Obey [Wheaton's Law](http://www.wheatonslaw.com/)
+* Include the keyword **sourdough** in any message you send me.
 
 ## Don't
 

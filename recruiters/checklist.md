@@ -32,7 +32,7 @@ If you answer **no** to **any** question you can stop right there and not bother
 16. Fewer than 2 members have quit the team you want me to work in in the past year
 17. The job includes at least 30 days of paid vacation (based on fulltime employment)
 18. The company is offering a permanent employment contract
-19. The company is willing to offer a monthly salary that starts with at least a 6 (assuming 4 digits in case you're a smartass)
+19. The company is willing to offer a monthly salary that starts with at least a 6 (based on full-time employment, and assuming 4 digits in case you're a smartass)
 20. This salary is not maxed out in any way, and will increase when my performance is considered adequate
 21. This salary will be increased annually to compensate for inflation
 22. On top of that the company pays at least 8% holiday pay
@@ -42,10 +42,35 @@ If you answer **no** to **any** question you can stop right there and not bother
 26. This laptop is not a Macbook
 27. On this laptop I can install whatever flavor of Linux I feel is best for the job
 28. The company supplies a new laptop every 3 years
-29. Any social event the company organises is optional (Note: I generally enjoy such events)
+29. Any social event the company organises is optional
 30. Work days are at most eight hours, and I get to choose my own hours
-31. Overtime is extremely rare, and either paid or "time for time" without an expiration date, even if it's just 15 minute
+31. Overtime is extremely rare, and either paid or "time for time" without an expiration date, even if it's just 15 minutes
 32. Any activities outside of normal work hours are optional, and do not influence performance reviews in any way
 
+
+## Frequently asked questions
+
+The above list may yield some questions, below are the most common ones
+
+### Do you honestly expect any company to meet all these demands?
+
+Not really, though I'd love to be wrong. The above list represents what would be a significant improvement over my current compensation and perks. I am happy at my current job, so if you're offering less than the above you're not offering me something I don't already have.
+
+### Do you hate social events with colleagues?
+
+Not at all, I generally enjoy those. Many of my current friends I met through work, and those events helped. The key is that these events should be *optional*. And I've seen too many examples of these events being labelled as optional
+until you don't attend.
+
+### Would you be willing to exchange some of the above items with a company car?
+
+No.
+
+#### Did we mention it's a Tesla?
+
+That would be a nice perk, but not in exchange for anything on my checklist.
+
+### Why not a Macbook? 
+
+I've used a Macbook for development in the past, as well as a Mac Mini for iOS development. Let's just say Macs and I don't get along.
 
 

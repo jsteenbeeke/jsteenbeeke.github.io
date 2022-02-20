@@ -4,7 +4,7 @@ title: Info for recruiters
 permalink: /recruiters/
 ---
 
-*Last updated on the 9th of February 2022*
+*Last updated on the 20th of February 2022*
 
 Hello there! If you're reading this then you're either a sentient web spider, or a human being looking for 
 an **experienced software developer**. I might have even sent you here after you messaged
@@ -24,5 +24,5 @@ Some things you need to know:
  * I live in Twente, and am **neither willing to relocate nor comfortable commuting by car**
  * I'm [not available for phone calls](/recruiters/fuck-phonecalls)
  * Normally I might be interested in meeting you in-person in exchange for **a [bribe](/recruiters/bribes)**, though due to personal circumstances I will decline such an invitation at this time.
- * Read my list of [do's and don'ts](/recruiters/dos-donts) before you contact me. If you don't I'll likely just send you back here.
+ * Read my list of [do's and don'ts](/recruiters/dos-donts) before you contact me. If you don't I'll likely just send you back here, or block you, and possibly your entire company.
  * Have a look at my [checklist](/recruiters/checklist)

@@ -24,7 +24,7 @@ If you answer **no** to **any** question you can stop right there and not bother
 8. The company that wants ot hire me is not a social media company
 9. The company that wants to hire me is not a direct competitor to my current employer 
 10. The company's internal communication is in Dutch, English or a mix of both
-11. The job requires me to develop software using either Java 17 or Kotlin
+11. The job requires me to develop software using either Java 17 (or higher) or Kotlin
 12. The acronyms JSP and JSF are either unknown in your company, or never used
 13. The job's main focus is not mobile app development
 14. The job is for 32 hours a week
@@ -46,6 +46,7 @@ If you answer **no** to **any** question you can stop right there and not bother
 30. Work days are at most eight hours, and I get to choose my own hours
 31. Overtime is extremely rare, and either paid or "time for time" without an expiration date, even if it's just 15 minutes
 32. Any activities outside of normal work hours are optional, and do not influence performance reviews in any way
+33. Your company uses IntelliJ IDEA as IDE for Java development
 
 
 ## Frequently asked questions

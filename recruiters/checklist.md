@@ -14,7 +14,7 @@ I'm not interested in "we can match most of this". **None of this is negotiable*
 
 If you answer **no** to **any** question you can stop right there and not bother contacting me.
 
-1. The current date is before the 9th of May 2022 (after that you can consider this list outdated)
+1. The current date is before the 21st of June 2022 (after that you can consider this list outdated)
 2. You are employed by the company that wants to hire me (i.e. they pay your salary, not your invoices)
 3. The company that wants to hire me is located in central Twente (i.e. I can walk or bike there), or wants me to work fully remote (forever)
 4. The job title is cooler than "Senior Software Developer"

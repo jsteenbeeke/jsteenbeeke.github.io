@@ -14,7 +14,7 @@ I'm not interested in "we can match most of this". **None of this is negotiable*
 
 If you answer **no** to **any** question you can stop right there and not bother contacting me.
 
-1. The current date is before the 21st of June 2022 (after that you can consider this list outdated)
+1. The current date is before the 2nd of August 2022 (after that you can consider this list outdated)
 2. You are employed by the company that wants to hire me (i.e. they pay your salary, not your invoices)
 3. The company that wants to hire me is located in central Twente (i.e. I can walk or bike there), or wants me to work fully remote (forever)
 4. The job title is cooler than "Senior Software Developer"
@@ -32,7 +32,7 @@ If you answer **no** to **any** question you can stop right there and not bother
 16. Fewer than 2 members have quit the team you want me to work in in the past year
 17. The job includes at least 30 days of paid vacation (based on fulltime employment)
 18. The company is offering a permanent employment contract
-19. The company is willing to offer a monthly salary that starts with at least a 6 (based on full-time employment, and assuming 4 digits in case you're a smartass)
+19. The company is willing to offer a monthly salary that starts with at least a 6 (in Euros, based on full-time employment, and assuming 4 digits in case you're a smartass)
 20. This salary is not maxed out in any way, and will increase when my performance is considered adequate
 21. This salary will be increased annually to compensate for inflation
 22. On top of that the company pays at least 8% holiday pay
@@ -74,4 +74,6 @@ That would be a nice perk, but not in exchange for anything on my checklist.
 
 I've used a Macbook for development in the past, as well as a Mac Mini for iOS development. Let's just say Macs and I don't get along.
 
+### Wouldn't it be better if you just become a freelancer?
 
+If I ever grow tired of my current job I just might.

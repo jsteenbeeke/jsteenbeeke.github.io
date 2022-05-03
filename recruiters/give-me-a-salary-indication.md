@@ -41,7 +41,7 @@ need inspiration.
 
 ### "How much do you want?"
 
-have a look at my [checklist](/recruiters/checklist).
+Have a look at my [checklist](/recruiters/checklist).
 
 ### "We don't like people who are overly focussed on salary"
 

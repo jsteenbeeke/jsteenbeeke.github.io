@@ -41,26 +41,26 @@ need inspiration.
 
 ### "How much do you want?"
 
-I will not make the first offer. Let's use D&D currency for illustrative purposes:
-
-* Current salary is 25gp a month
-* Will accept a new job that pays at least 30gp
-* Potential employer has 35gp in mind, but asks me what I'd like to earn
-* I state 32gp, employer accepts
-* I earn 3gp less than I could have
+have a look at my [checklist](/recruiters/checklist).
 
 ### "We don't like people who are overly focussed on salary"
 
 Excellent, I'd love to have an emptier inbox. I'm sure there are hundreds of other potential candidates
-you can go bother instead. 
+you can go bother instead.
+
+No? Well sucks to be you then.
 
 ### "Enjoying your job is much more important than getting paid well"
 
-They're not mutually exclusive, I currently have a very enjoyable job with a nice salary. 
+They're not mutually exclusive, I currently have a very enjoyable job with a nice salary. Not stellar,
+ but it's a good trade-off between workload and compensation.
 
 Besides, every single company who has ever told me I should focus on enjoyment rather than compensation
 had, rather ironically, a really toxic work environment in addition to their low salaries.
 
 ### "How about you tell us your current salary so we can make a fitting offer?"
 
-Sure, but first you tell me the current salaries of all your employees with similar levels of experience.
+Sure, if you tell me the salaries of all your employees.
+
+No? Then have a look at my [checklist](/recruiters/checklist).
+

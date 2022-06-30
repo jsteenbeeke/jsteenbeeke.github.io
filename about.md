@@ -47,7 +47,7 @@ technologies such as JSP.
  
 ## What I do besides coding
  
- [I write fantasy books](https://www.jeroensteenbeeke.nl), enjoy an occassional glass of Scotch, bake bread, 
- read a lot of books, play complicated and/or time-consuming video games (Crusader Kings 2, Dwarf Fortress,
+ [I write fantasy books](https://www.jeroensteenbeeke.nl), enjoy an occassional glass of Scotch, do endurance kickboxing, 
+ bake bread, read a lot of books, play complicated and/or time-consuming video games (Crusader Kings 2, Dwarf Fortress,
  Factorio, Kerbal Space Program, Minecraft, Stardew Valley), go on a hike, and, most importantly,
  spend time with my family.

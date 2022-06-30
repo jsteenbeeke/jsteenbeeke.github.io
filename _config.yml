@@ -21,6 +21,8 @@ url: "http://tech.jeroensteenbeeke.nl" # the base hostname & protocol for your s
 twitter_username: jsteenbeeke
 github_username: jsteenbeeke
 
+google_analytics: G-P2SWSZL45J
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-hacker

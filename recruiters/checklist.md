@@ -14,7 +14,7 @@ I'm not interested in "we can match most of this". **None of this is negotiable*
 
 If you answer **no** to **any** question you can stop right there and not bother contacting me.
 
-1. The current date is before the 2nd of August 2022 (after that you can consider this list outdated)
+1. The current date is before the 1st of October 2022 (after that you can consider this list outdated)
 2. You are employed by the company that wants to hire me (i.e. they pay your salary, not your invoices)
 3. The company that wants to hire me is located in central Twente (i.e. I can walk or bike there), or wants me to work fully remote (forever)
 4. The job title is cooler than "Senior Software Developer"
@@ -46,7 +46,8 @@ If you answer **no** to **any** question you can stop right there and not bother
 30. Work days are at most eight hours, and I get to choose my own hours
 31. Overtime is extremely rare, and either paid or "time for time" without an expiration date, even if it's just 15 minutes
 32. Any activities outside of normal work hours are optional, and do not influence performance reviews in any way
-33. Your company uses IntelliJ IDEA as IDE for Java development
+33. Your company uses IntelliJ IDEA as IDE for Java or Kotlin development
+34. Your company does not expect me to engage in pair programming, except for short periods of time
 
 
 ## Frequently asked questions
@@ -68,7 +69,7 @@ No.
 
 #### Did we mention it's a Tesla?
 
-That would be a nice perk, but not in exchange for anything on my checklist.
+That would be a nice perk (assuming it's not a white one. I don't like white cars), but not in exchange for anything on my checklist.
 
 ### Why not a Macbook? 
 
@@ -77,3 +78,7 @@ I've used a Macbook for development in the past, as well as a Mac Mini for iOS d
 ### Wouldn't it be better if you just become a freelancer?
 
 If I ever grow tired of my current job I just might.
+
+### You don't like pair programming?
+
+No, I do not, for many reasons I will not elaborate here. 

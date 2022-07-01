@@ -50,6 +50,16 @@ you can go bother instead.
 
 No? Well sucks to be you then.
 
+### Why do you need so much money?
+
+Have you paid **any** attention to inflation numbers recently? Some companies seem to think that the salaries they were
+offering in 2008 are still reasonable fourteen years later, even though cumulative inflation between 2008 and 2021 is
+almost 24% in the Netherlands (and I'm not even counting the crazy inflation in 2022).
+
+Not to mention that demand for experienced developers has skyrocketed since then, and it's a seller's market. You're the buyer.
+
+Also I'm not a fucking charity.
+
 ### "Enjoying your job is much more important than getting paid well"
 
 They're not mutually exclusive, I currently have a very enjoyable job with a nice salary. Not stellar,
@@ -57,6 +67,10 @@ They're not mutually exclusive, I currently have a very enjoyable job with a nic
 
 Besides, every single company who has ever told me I should focus on enjoyment rather than compensation
 had, rather ironically, a really toxic work environment in addition to their low salaries.
+
+### Paying you X wouldn't be fair to our current employees
+
+Then you should stop underpaying them. 
 
 ### "How about you tell us your current salary so we can make a fitting offer?"
 

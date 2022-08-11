@@ -14,7 +14,7 @@ I'm not interested in "we can match most of this". **None of this is negotiable*
 
 If you answer **no** to **any** question you can stop right there and not bother contacting me.
 
-1. The current date is before the 1st of October 2022 (after that you can consider this list outdated)
+1. The current date is before the 1st of January 2023 (after that you can consider this list outdated)
 2. You are employed by the company that wants to hire me (i.e. they pay your salary, not your invoices)
 3. The company that wants to hire me is located in central Twente (i.e. I can walk or bike there), or wants me to work fully remote (forever)
 4. The job title is cooler than "Senior Software Developer"
@@ -27,10 +27,10 @@ If you answer **no** to **any** question you can stop right there and not bother
 11. The job requires me to develop software using either Java 17 (or higher) or Kotlin
 12. The acronyms JSP and JSF are either unknown in your company, or never used
 13. The job's main focus is not mobile app development
-14. The job is for 32 hours a week
+14. The job is for 32 hours a week [^1]
 15. The job does not require me to work on Wednesdays, ever
 16. Fewer than 2 members have quit the team you want me to work in in the past year
-17. The job includes at least 30 days of paid vacation (based on fulltime employment)
+17. The job includes at least 30 days of paid vacation (based on fulltime employment) [^2]
 18. The company is offering a permanent employment contract
 19. The company is willing to offer a monthly salary that starts with at least a 6 (in Euros, based on full-time employment, and assuming 4 digits in case you're a smartass)
 20. This salary is not maxed out in any way, and will increase when my performance is considered adequate
@@ -43,12 +43,12 @@ If you answer **no** to **any** question you can stop right there and not bother
 27. On this laptop I can install whatever flavor of Linux I feel is best for the job
 28. The company supplies a new laptop every 3 years
 29. Any social event the company organises is optional
-30. Work days are at most eight hours, and I get to choose my own hours
+30. Work hours are flexible. If I want to start at 10AM one day and 6AM the other then this is fine
 31. Overtime is extremely rare, and either paid or "time for time" without an expiration date, even if it's just 15 minutes
 32. Any activities outside of normal work hours are optional, and do not influence performance reviews in any way
 33. Your company uses IntelliJ IDEA as IDE for Java or Kotlin development
 34. Your company does not expect me to engage in pair programming, except for short periods of time
-
+35. Your company trusts its employees [^3]
 
 ## Frequently asked questions
 
@@ -82,3 +82,149 @@ If I ever grow tired of my current job I just might.
 ### You don't like pair programming?
 
 No, I do not, for many reasons I will not elaborate here. 
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+## Footnotes
+
+* footnotes will be placed here. This line is necessary
+{:footnotes}
+
+[^1]: I expect this to be treated as an average. If I happen to only work 30 hours one week I don't expect to get any complaints about it. I will ensure that on a yearly basis my average number of hours worked per week is equal to or exceeds 32 hours.
+[^2]: Some companies offer "unlimited vacation time". This is a red flag to me, as it usually means employees are pressured to take as little vacation as possible. If unlimited vacation time is your policy then your contract better specify a lower limit of 30
+[^3]: One company I worked at had serious trust issues with its employees. Leave after the manager thinks you've done exactly 8 hours of work (when in fact it's closer to 9)? You must be slacking. Call in sick a little more often than average? Get an inspector at your door *within an hour* every time you call in sick. If this is you, then fuck you and fuck your company.
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+You can stop reading now.

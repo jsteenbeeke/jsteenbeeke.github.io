@@ -10,7 +10,7 @@ Are you absolutely 100% convinced that the job you have is perfect for me, and t
 
 ## The Checklist
 
-I'm not interested in "we can match most of this". **None of this is negotiable**. 
+I'm not interested in "we can match most of this". **If you cannot match every single point on this list then there is no point in my changing jobs**. 
 
 If you answer **no** to **any** question you can stop right there and not bother contacting me.
 
@@ -43,7 +43,7 @@ If you answer **no** to **any** question you can stop right there and not bother
 27. On this laptop I can install whatever flavor of Linux I feel is best for the job
 28. The company supplies a new laptop every 3 years
 29. Any social event the company organises is optional
-30. Work hours are flexible. If I want to start at 10AM one day and 6AM the other then this is fine
+30. Work hours are flexible. For example: if I want to start at 10AM one day and 6AM the other then this is fine
 31. Overtime is extremely rare, and either paid or "time for time" without an expiration date, even if it's just 15 minutes
 32. Any activities outside of normal work hours are optional, and do not influence performance reviews in any way
 33. Your company uses IntelliJ IDEA as IDE for Java or Kotlin development
@@ -56,7 +56,7 @@ The above list may yield some questions, below are the most common ones
 
 ### Do you honestly expect any company to meet all these demands?
 
-Not really, though I'd love to be wrong. The above list represents what would be a significant improvement over my current compensation and perks. I am happy at my current job, so if you're offering less than the above you're not offering me something I don't already have.
+Let's put it this way: my current employer sets a pretty high bar for you to top. The above list represents what would be a significant improvement over my current compensation and perks. I am happy at my current job, so if you're offering less than the above you're not offering me something I don't already have.
 
 ### Do you hate social events with colleagues?
 
@@ -67,9 +67,9 @@ until you don't attend.
 
 No.
 
-#### Did we mention it's a Tesla?
+#### Not even if it's a Tesla?
 
-That would be a nice perk (assuming it's not a white one. I don't like white cars), but not in exchange for anything on my checklist.
+No, though if you can match the above **and** throw in a Tesla then I'm all ears. Except if it's a white one.
 
 ### Why not a Macbook? 
 
@@ -124,7 +124,7 @@ No, I do not, for many reasons I will not elaborate here.
 
 [^1]: I expect this to be treated as an average. If I happen to only work 30 hours one week I don't expect to get any complaints about it. I will ensure that on a yearly basis my average number of hours worked per week is equal to or exceeds 32 hours.
 [^2]: Some companies offer "unlimited vacation time". This is a red flag to me, as it usually means employees are pressured to take as little vacation as possible. If unlimited vacation time is your policy then your contract better specify a lower limit of 30
-[^3]: One company I worked at had serious trust issues with its employees. Leave after the manager thinks you've done exactly 8 hours of work (when in fact it's closer to 9)? You must be slacking. Call in sick a little more often than average? Get an inspector at your door *within an hour* every time you call in sick. If this is you, then fuck you and fuck your company.
+[^3]: One company I worked at had serious trust issues with its employees. Leave after the manager thinks you've done exactly 8 hours of work (when in fact it's closer to 9)? You must be slacking. Call in sick a little more often than average? Get an inspector at your door *within an hour* every time you call in sick from now on. If this is you, then fuck you and fuck your company.
 
 <br />
 <br />

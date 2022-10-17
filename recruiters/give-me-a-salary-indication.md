@@ -1,5 +1,7 @@
 ---
-layout: page title: Give me a salary indication permalink: /recruiters/give-me-a-salary-indication
+layout: page 
+title: Give me a salary indication 
+permalink: /recruiters/give-me-a-salary-indication
 ---
 
 Do you value your time? I do! As such, for the very low number of jobs I might actually be

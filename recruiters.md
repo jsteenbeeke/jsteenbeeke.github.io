@@ -24,4 +24,3 @@ Some things you need to know:
    * This also means emigration is a no-go
  * I'm [not available for phone calls](/recruiters/fuck-phonecalls)
  * Read my list of [do's and don'ts](/recruiters/dos-donts) before you contact me. If you don't I'll likely just send you back here, or block you, and possibly your entire company.
- * Have a look at my [checklist](/recruiters/checklist)

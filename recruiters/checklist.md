@@ -14,7 +14,7 @@ I'm not interested in "we can match most of this". **If you cannot match every s
 
 If you answer **no** to **any** question you can stop right there and not bother contacting me.
 
-1. The current date is before the 1st of January 2023 (after that you can consider this list outdated)
+1. The current date is before the 1st of April 2023 (after that you can consider this list outdated)
 2. You are employed by the company that wants to hire me (i.e. they pay your salary, not your invoices)
 3. The company that wants to hire me is located in central Twente (i.e. I can walk or bike there), or wants me to work fully remote (forever)
 4. The job title is cooler than "Senior Software Developer"
@@ -30,13 +30,13 @@ If you answer **no** to **any** question you can stop right there and not bother
 13. The job's main focus is not mobile app development
 14. The job is for 32 hours a week [^1]
 15. The job does not require me to work on Wednesdays, ever
-  * That means I cannot "attend 1 or 2 meetings" on Wednesdays
+  * That means I cannot "attend 1 or 2 meetings" on Wednesdays [^2]
 16. Fewer than 2 members have quit the team you want me to work in in the past year
-17. The job includes at least 30 days of paid vacation (based on fulltime employment) [^2]
+17. The job includes at least 30 days of paid vacation (based on fulltime employment) [^3]
 18. The company is offering a permanent employment contract
 19. The company is willing to offer a monthly salary that starts with at least a 7
   * In Euros
-  * With at least 4 digits [^3]
+  * With at least 4 digits [^4]
 20. This salary is not maxed out in any way, and will increase when my performance is considered adequate
 21. This salary will be increased annually to compensate for inflation
 22. On top of that the company pays at least 8% holiday pay
@@ -130,8 +130,10 @@ No, I do not, for many reasons I will not elaborate here.
 {:footnotes}
 
 [^1]: I expect this to be treated as an average. If I happen to only work 30 hours one week I don't expect to get any complaints about it. I will ensure that on a yearly basis my average number of hours worked per week is equal to or exceeds 32 hours.
-[^2]: Some companies offer "unlimited vacation time". This is a red flag to me, as it usually means employees are pressured to take as little vacation as possible. If unlimited vacation time is your policy then your contract better specify a lower limit of 30
-[^3]: Nobody likes a smartass
+[^2]: In case you're wondering, it was the people at Vasco Enschede who suggested this during a job interview.
+[^3]: Some companies offer "unlimited vacation time". This is a red flag to me, as it usually means employees are pressured to take as little vacation as possible. If unlimited vacation time is your policy then your contract better specify a lower limit of 30
+[^4]: Nobody likes a smartass
+
 <br />
 <br />
 <br />

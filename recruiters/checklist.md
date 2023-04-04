@@ -14,7 +14,7 @@ I'm not interested in "we can match most of this". **If you cannot match every s
 
 If you answer **no** to **any** question you can stop right there and not bother contacting me.
 
-1. The current date is before the 1st of April 2023 (after that you can consider this list outdated)
+1. The current date is before the 1st of July 2023 (after that you can consider this list outdated)
 2. You are employed by the company that wants to hire me (i.e. they pay your salary, not your invoices)
 3. The company that wants to hire me is located in central Twente (i.e. I can walk or bike there), or wants me to work fully remote (forever)
 4. The job title is cooler than "Senior Software Developer"
@@ -76,7 +76,7 @@ No.
 
 #### Not even if it's a Tesla?
 
-No, though if you can match the above **and** throw in a Tesla then I'm all ears. Except if it's a white one.
+No, though if you can match the above **and** throw in a Tesla then I'm all ears (any color except white, that is)
 
 ### Why not a Macbook? 
 

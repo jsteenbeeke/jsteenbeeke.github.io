@@ -4,11 +4,11 @@ title: Info for recruiters
 permalink: /recruiters/
 ---
 
-*Last updated on the 12th of May 2023*
+*Last updated on the 25th of April 2024*
 
 Hello there! If you're reading this then you're either a sentient web spider, or a human being looking for 
 an **experienced software developer**. You may have found a link to this page on my
- [LinkedIn profile](https://www.linkedin.com/in/jeroen-steenbeeke-1b13676/), or I may have sent you here if you made the unfortunate decision
+ [LinkedIn profile](https://www.linkedin.com/in/j-steenbeeke-1b13676/), or I may have sent you here if you made the unfortunate decision
 of sending me an e-mail.
  
 In the past, this page housed a rather exhaustive list of things I was looking for in a perfect job 
@@ -45,7 +45,7 @@ If you do decide to contact me, here's a small list of things you should and sho
 
 * Misbehave
 * Insist I call you on the phone
-* Deny that you're a recruiter
+* Deny that you're a recruiter[^5]
 * Try to connect on LinkedIn, messaging is fine
 * Try getting in touch with me through my current employer
 * Send me e-mails
@@ -92,3 +92,5 @@ If you do decide to contact me, here's a small list of things you should and sho
 [^2]: The more detailed the better. Bonus points for simply doing `mvn dependency:tree` (or whatever the Gradle equivalent is) and sending me that
 [^3]: Would you rather spend hours interviewing me only to find out you can't afford me? I don't
 [^4]: Yes, this is a different keyword than the one on my LinkedIn profile. That way I can see if you read both
+[^5]: Your job description may state otherwise but if you're contacting me with the goal of getting me to work either for
+you or for your client then the activity you're performing is recruitment. In English, adding the suffix `-er` to a verb is used to create a noun that means `person or thing that does <verb>`, so be engaging in recruitment, you are a recruiter.

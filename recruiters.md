@@ -27,7 +27,7 @@ Some things you need to know:
    * Consultancy (or "Detachering")
    * Midlance companies
    * Companies that work on a project-by-project basis[^1]
-   * Jobs at [Thales](/recruiters/thales/)[^6]
+   * Jobs at [Thales](/recruiters/thales/) [^6]
  * I have no interest in using [older Java versions](/recruiters/modern-java-please)
  * I prefer technologies like Jakarta EE, Microprofile and Quarkus over Spring Boot
    

@@ -4,7 +4,7 @@ title: Info for recruiters
 permalink: /recruiters/
 ---
 
-*Last updated on the 25th of April 2024*
+*Last updated on the 8th of May 2025*
 
 Hello there! If you're reading this then you're either a sentient web spider, or a human being looking for 
 an **experienced software developer**. You may have found a link to this page on my

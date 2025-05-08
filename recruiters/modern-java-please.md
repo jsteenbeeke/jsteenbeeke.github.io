@@ -4,11 +4,15 @@ title: Modern Java please
 permalink: /recruiters/modern-java-please
 ---
 
-As of writing this bit, the [most recent Java version](https://en.wikipedia.org/wiki/Java_version_history) is **Java 21**, 
-and the latest **Long Term Support (LTS)** version is **Java 17**. All my personal applications run **Java 21**, and all 
-professional applications I work on run **Java 17**.
+As of writing this bit, the [most recent Java version](https://en.wikipedia.org/wiki/Java_version_history) is **Java 24**, 
+and the latest **Long Term Support (LTS)** version is **Java 21**. All my personal applications run **Java 21**, and all 
+professional applications I work on run **Java 17** or **Java 21**.
 
 Here's what I think of other Java versions:
+
+## Java 22 and 23
+
+Are no longer supported, upgrade to 24 ASAP.
 
 ## Java 18, 19 or 20
 
@@ -20,7 +24,7 @@ These are no longer supported. Upgrade to 17 or 21 ASAP
 
 ## Java 11
 
-This version was released in 2018. While still under support, you're missing out on great features, and most major frameworks are compatible with Java 17 anyway. It's a
+This version was released in 2018. Unless you're paying for extended support you should be migrated, and most major frameworks are compatible with Java 17 anyway. It's a
 fairly painless migration, so get to it. Hell, even Android is compatible with 17 these days.
 
 ## Java 8

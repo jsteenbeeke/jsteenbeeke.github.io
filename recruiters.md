@@ -27,6 +27,7 @@ Some things you need to know:
    * Consultancy (or "Detachering")
    * Midlance companies
    * Companies that work on a project-by-project basis[^1]
+   * Jobs at [Thales](/recruiters/thales/)[^6]
  * I have no interest in using [older Java versions](/recruiters/modern-java-please)
  * I prefer technologies like Jakarta EE, Microprofile and Quarkus over Spring Boot
    
@@ -93,4 +94,5 @@ If you do decide to contact me, here's a small list of things you should and sho
 [^3]: Would you rather spend hours interviewing me only to find out you can't afford me? I don't
 [^4]: Yes, this is a different keyword than the one on my LinkedIn profile. That way I can see if you read both
 [^5]: Your job description may state otherwise but if you're contacting me with the goal of getting me to work either for
-you or for your client then the activity you're performing is recruitment. In English, adding the suffix `-er` to a verb is used to create a noun that means `person or thing that does <verb>`, so be engaging in recruitment, you are a recruiter.
+you or for your client then the activity you're performing is recruitment. In English, adding the suffix `-er` to a verb is used to create a noun that means `person or thing that does <verb>`, so by engaging in recruitment, you are a recruiter.
+[^6]: This is not meant to single them out as a company. It's just that 70% of all recruiter messages I receive are job openings at Thales
